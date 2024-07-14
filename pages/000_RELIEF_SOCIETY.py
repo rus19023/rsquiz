@@ -22,8 +22,8 @@ SCORE_TXT = 'highest_rs_score.txt'
 # TODO: Quiz: 
 
 @st.cache_data
-def get_questions(questions_file, placeholder=0) -> list:
-    placeholder += 1
+def get_questions(questions_file) -> list:
+    #placeholder += 1
     with open(questions_file) as file:
         questions = json.load(file)
     return questions
