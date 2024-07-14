@@ -196,8 +196,8 @@ def toggle_bool(coll, document_id, bool_field):
 
 # QUIZ_DB = load_dbs(CLIENT, 'quiz')
 
-SERVER_API = st.secrets.mongo.server
-PORT = st.secrets.mongo.port
+#SERVER_API = st.secrets.mongo.server
+#PORT = st.secrets.mongo.port
 
 if os.path.exists("/.dockerenv"):
     print("\n\n Running in Docker container \n\n")
