@@ -5,7 +5,7 @@ import time
 from time import sleep
 import json
 import os
-from mods.data_processing import *
+#from mods.data_processing import *
 
 SCORE_TXT = 'highest_score.txt'
 
