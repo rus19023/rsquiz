@@ -1,0 +1,3771 @@
+[
+    {
+        "category": "Arts & Literature",
+        "id": "7a7dece7-eb61-4cfc-917c-6043cc9cfebf",
+        "correctAnswer": "You need technology, you need the professions, but you also need something that speaks to the heart.",
+        "incorrectAnswers": [
+            "Technology decreases your ability to recognize beauty.",
+            "The purpose of education is to build professional opportunities.",
+            "Studying great art helps you see the interconnectedness of all areas of knowledge."
+        ],
+        "question": "1-President Gordon B. Hinckley said that a study of the humanities \u201cgives an aspect of living that is essential.\u201d He believed:",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "de3e2bf9-16cf-4a6a-9f69-8b83a8290888",
+        "correctAnswer": "The aulos",
+        "incorrectAnswers": [
+            "The trumpet",
+            "The lyre",
+            "The flute"
+        ],
+        "question": "2-What instrument did worshippers of Dionysus play?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "e3b55625-4c98-499e-875a-9e235a47c934",
+        "correctAnswer": "Doric",
+        "incorrectAnswers": [
+            "Romanesque",
+            "Corinthian",
+            "Ionic"
+        ],
+        "question": "4-What is the name of the simplest and earliest of the Greek orders?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "035cfbfa-6cea-4de6-adbf-e7d64413ac01",
+        "correctAnswer": "ambulatory, triforium, clerestory",
+        "incorrectAnswers": [
+            "nave, crossing, choir",
+            "north aisle, south aisle, north transept, south transept",
+            "nave, transept, aspe"
+        ],
+        "question": "5-What are the levels of a Gothic cathedral from bottom to top?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "746078e1-1551-45e0-9159-9c95a68eebd0",
+        "correctAnswer": "A barrel vault",
+        "incorrectAnswers": [
+            "An Oculus",
+            "Keystone",
+            "Triumphal arch"
+        ],
+        "question": "6-What do we call a vault created by a series of arches?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "5abd3e72-6e3f-4dd6-b03b-de63896d7272",
+        "correctAnswer": "Outside, in front of the entrance.",
+        "incorrectAnswers": [
+            "Between columns and a concrete wall.",
+            "Under an arch",
+            "At the foot of the god or goddess statue."
+        ],
+        "question": "7-Where was the altar placed in a Greek temple?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "d3fbc809-8bb8-4fc9-8acd-9a7cc7fef2dc",
+        "correctAnswer": "Romanesque",
+        "incorrectAnswers": [
+            "Polyphony between form and function",
+            "Maslow's hierarchy of needs",
+            "Dionysian"
+        ],
+        "question": "8-What is the name of the style of the early Middle Ages that uses Roman arches, domes, and barrel vaults?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "0b735a44-f675-4ea2-bf74-f8254c4ce0a1",
+        "correctAnswer": "Hagia Sophia (was built in the sixth century AD in Constantinople)",
+        "incorrectAnswers": [
+            "St. Sernin Basilica",
+            "Parthenon",
+            "Colosseum"
+        ],
+        "question": "9-What is the name of the great domed church of Constantinople?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "16aa389e-c409-417c-869d-bb874aba0379",
+        "correctAnswer": "Flying buttresses",
+        "incorrectAnswers": [
+            "Lintel and post",
+            "Barrel vault",
+            "Romanesque"
+        ],
+        "question": "10-What were the structures used to brace the outside of a Gothic cathedral called?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "d4004a69-60a0-4979-9175-14dda6fc00c9",
+        "correctAnswer": "Scholasticism",
+        "incorrectAnswers": [
+            "Christianity",
+            "Life of the Mind",
+            "Pagan"
+        ],
+        "question": "11-What do we call the philosophy that the world is rational and that we come to understand it through the Spirit?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "8ffe5f8c-13f3-4e5b-8bff-3efd7e4daa95",
+        "correctAnswer": "Christian services are meant to be indoors, to shelter them from the world whereas pagan architecture was open to both the sight of the gods they worshipped and the world.",
+        "incorrectAnswers": [
+            "Aesthetic principles",
+            "Building materials",
+            "Public life vs. family-oriented privacy"
+        ],
+        "question": "12-What accounts for the differences between pagan and Christian architecture?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "21027b94-9d49-44f4-ad20-050909000a82",
+        "correctAnswer": "Ionic",
+        "incorrectAnswers": [
+            "Corinthian",
+            "Doric",
+            "Romanesque"
+        ],
+        "question": "14-What Greek order uses a scroll shaped capital?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "0dc4e49b-4346-4ac6-a6ad-0bc77c4421eb",
+        "correctAnswer": "Horns",
+        "incorrectAnswers": [
+            "Trombone",
+            "Trumpet",
+            "Tuba"
+        ],
+        "question": "15-Which brass instruments get their names because in ancient times they were made from a long, curled ram's horn?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "6bcf6207-1d32-4f02-b69b-dc63f1cd4c6e",
+        "correctAnswer": "The soprano is always a woman",
+        "incorrectAnswers": [
+            "The soprano is higher than the alto",
+            "The tenor is usually a man",
+            "The bass is lower than the tenor"
+        ],
+        "question": "17-Which statement is not true?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "396732e4-9a5e-4a81-86cc-dbd537938fcc",
+        "correctAnswer": "Clarinet",
+        "incorrectAnswers": [
+            "Trumpet",
+            "Drums",
+            "String Bass"
+        ],
+        "question": "18-What instrument did Benny Goodman play?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "13ddfa9d-2f18-40fb-9d72-d406cc25fe47",
+        "correctAnswer": "Brass instruments have reeds",
+        "incorrectAnswers": [
+            "The various string instruments relate to the ranges of the human voice",
+            "Percussion instruments include the timpani and xylophone",
+            "The harpsichord is a keyboard instrument"
+        ],
+        "question": "19-Which statement is not true?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "e1fb654e-77c8-44d0-8922-be5be9207e5b",
+        "correctAnswer": "Violin",
+        "incorrectAnswers": [
+            "Cello",
+            "Organ",
+            "Trumpet"
+        ],
+        "question": "21-Which instrument plays the solo passages in Vivaldi's Four Seasons",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "e3dd76a7-8b8c-4ac0-aaa3-9f598773d1d1",
+        "correctAnswer": "A large ensemble is called a chamber ensemble",
+        "incorrectAnswers": [
+            "Many choirs include sopranos, altos, tenors, and basses",
+            "A band is a group of instruments that does not include bowed strings",
+            "Strings are at the heart of an orchestra"
+        ],
+        "question": "22-Which statement is not true?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "c3b62fe8-e387-4084-a6bd-b9943eb32394",
+        "correctAnswer": "Because they were originally made of wood.",
+        "incorrectAnswers": [
+            "Because they must correspond to the ranges of the human voice.",
+            "Because they are plucked or bowed.",
+            "Because players hold them vertically."
+        ],
+        "question": "23-Why do woodwinds have a softer, mellower sound than brass instruments?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "218295eb-7eac-4189-89ad-ec31edeb0975",
+        "correctAnswer": "The Paris Opera . (Palais Garnier)",
+        "incorrectAnswers": [
+            "The Rome Opera",
+            "The Venice Opera",
+            "The Metropolitan Opera"
+        ],
+        "question": "24-What is the setting for the Phantom of the Opera?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "11f4847c-9afc-472a-bfbb-d2b09197b7ba",
+        "correctAnswer": "The trumpet is deeper than the horn",
+        "incorrectAnswers": [
+            "The trombone is lower than the trumpet",
+            "The clarinet is a woodwind instrument",
+            "The trumpet is higher than the tuba"
+        ],
+        "question": "25-Which statement is not true?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "d034523e-bc97-47ae-9c83-c663b1c687ac",
+        "correctAnswer": "Any of these",
+        "incorrectAnswers": [
+            "Glass",
+            "Tile",
+            "Stone"
+        ],
+        "question": "26-In mosaic, to make a picture an artist arranges pieces of",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "710704f8-a0f4-410b-a8a1-ced520606d3e",
+        "correctAnswer": "1400s",
+        "incorrectAnswers": [
+            "1600s",
+            "1200s",
+            "1500s"
+        ],
+        "question": "27-When was oil-based painting pioneered?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "6e3dc262-cbfe-460a-964a-772607fc714e",
+        "correctAnswer": "copper",
+        "incorrectAnswers": [
+            "silver",
+            "lead",
+            "gold"
+        ],
+        "question": "28-To make an engraving the artist takes a flat plate of soft metal and scratches the desired picture into the surface. Which soft metal is usually used:",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "6c2729b4-9dd5-4f76-9b6d-d5026fd62727",
+        "correctAnswer": "What it's made of.",
+        "incorrectAnswers": [
+            "Where it's made.",
+            "How it's made.",
+            "It's category or grouping."
+        ],
+        "question": "29-What is an artwork's medium?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "7748c658-4311-427c-8160-b50b14ffcdac",
+        "correctAnswer": "It lacks the fine precise detail of other forms.",
+        "incorrectAnswers": [
+            "The colored surface fades.",
+            "The paint is immediately absorbed.",
+            "The paint tends to flake off or become damaged."
+        ],
+        "question": "30-Identify a limitation of woodcut:",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "04f7c6fc-5cab-4d78-b2b0-a996a0c66e6e",
+        "correctAnswer": "days or even weeks",
+        "incorrectAnswers": [
+            "several months",
+            "a few hours",
+            "a few minutes"
+        ],
+        "question": "31-How long does it take oil based paint to dry?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "99cf58a5-7702-47d9-b97e-ede1844451c2",
+        "correctAnswer": "King Francis the First",
+        "incorrectAnswers": [
+            "Louis-Philippe I",
+            "Charles X",
+            "Napoleon Bonaparte"
+        ],
+        "question": "32-Which French monarch purchased the Mona Lisa?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "db0e92a1-4e9c-4216-b616-e48df623a50d",
+        "correctAnswer": "The colors are fast and permanent",
+        "incorrectAnswers": [
+            "The Last Supper is a mural",
+            "All the statements are true",
+            "It is painted on a wall"
+        ],
+        "question": "33-What is not true of a mural?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "d0df3c6b-12b2-4da3-9674-584ea375f769",
+        "correctAnswer": "The palace of the French kings",
+        "incorrectAnswers": [
+            "An orphanage",
+            "A hospital",
+            "A military barracks"
+        ],
+        "question": "34-What was the Louvre before it was a museum?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "39406130-45a4-447f-bd82-ab9f0b095e75",
+        "correctAnswer": "Low",
+        "incorrectAnswers": [
+            "Long",
+            "Large",
+            "Sharp"
+        ],
+        "question": "35-Bas in bas relief means",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "7207fa03-94af-4039-a257-473ba3cc90a4",
+        "correctAnswer": " 1504",
+        "incorrectAnswers": [
+            "1520",
+            "1516",
+            "1400"
+        ],
+        "question": "36-What year did Leonardo begin the Mona Lisa?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "b7e60a3e-ca96-4e69-981c-6ed12c408953",
+        "correctAnswer": "It allowed for ongoing revisions and blending of the colors.",
+        "incorrectAnswers": [
+            "It allowed Leonardo to paint on a surface other than canvas.",
+            "It. provided a transparent background which reflected through the paint layers.",
+            "It protected the pigment from water washes."
+        ],
+        "question": "37-What did oil-based paint make possible in regards to the Mona Lisa?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "ebed61f0-4645-479e-81a8-b78a7bcc61c9",
+        "correctAnswer": "A fortress",
+        "incorrectAnswers": [
+            "A palace",
+            "An art museum",
+            "Residence of the French Kings"
+        ],
+        "question": "38-What was the Louvre originally designed to be?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "b53a07a6-379d-4c17-a6b3-d0c04e0f0503",
+        "correctAnswer": "The Rule of Thirds",
+        "incorrectAnswers": [
+            "The Allegory of the Cave",
+            "The Pythagorean Theorem",
+            "The Birth of the Blues"
+        ],
+        "question": "39-What is a simplified version of the Golden Section?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "b8c29f52-ec31-4b06-8575-afdd76e94210",
+        "correctAnswer": "true",
+        "incorrectAnswers": [
+            "False",
+            ".",
+            ","
+        ],
+        "question": "40-Red and green are complimentary colors.",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "39ed7379-ff8f-4f2b-8e4d-e4391aeb1d64",
+        "correctAnswer": "Texture",
+        "incorrectAnswers": [
+            "Perspective",
+            "Foreshortening",
+            "Value"
+        ],
+        "question": "41-The 19th century artist Vincent Van Gogh is famous for his dramatic brushstrokes and thick globs of paint. Which artistic element is this?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "b922054f-a8f9-41c9-b65d-c23cfc1a0992",
+        "correctAnswer": "Green",
+        "incorrectAnswers": [
+            "Red",
+            "Blue",
+            "Yellow"
+        ],
+        "question": "42-Which is not a primary color?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "c9ec3181-321d-4b3f-8609-a3bb04fa5fd9",
+        "correctAnswer": "Repeating certain shapes, colors, etc.",
+        "incorrectAnswers": [
+            "Balance vertical patterns.",
+            "Include lines running from left to right across the work.",
+            "Include symmetrical and radial shapes."
+        ],
+        "question": "43-How do artists emphasize the emotional impact of a work?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "71325b80-650a-45c1-83ae-49b3353e2a71",
+        "correctAnswer": "The contrast between light and darkness",
+        "incorrectAnswers": [
+            "The formula for creating perspective",
+            "None of the above",
+            "The Rule of Thirds"
+        ],
+        "question": "44-Chiaroscuro refers to________.",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "5892fb71-7475-426f-9963-20fc3cfa0008",
+        "correctAnswer": "An s-curve",
+        "incorrectAnswers": [
+            "A slow curve",
+            "A diagonal line",
+            "A horizontal line"
+        ],
+        "question": "45-What type of line is considered most pleasing to the eye?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "07ce6223-9119-4c90-8c12-6b44c2545642",
+        "correctAnswer": "Texture",
+        "incorrectAnswers": [
+            "None of the above",
+            "Glaze",
+            "Fresco"
+        ],
+        "question": "46-The visual appearance of the surface of the canvas is called_______.",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "8283092f-8cf1-4884-91ce-d755708a117d",
+        "correctAnswer": "Repeating certain shapes, colors, etc.",
+        "incorrectAnswers": [
+            "Balance vertical patterns.",
+            "Include lines running from left to right across the work.",
+            "Include symmetrical and radial shapes."
+        ],
+        "question": "47-How do artists emphasize the emotional impact of a work?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "02631ccb-4a46-400e-8453-37467ae25bf8",
+        "correctAnswer": "Red",
+        "incorrectAnswers": [
+            "Black",
+            "Yellow",
+            "White"
+        ],
+        "question": "48-The 17th Century painter, Peter Paul Rubens, used a great deal of what color in \"The Stroke of the Lance\" to emphasize the violence of Christ's crucifixion?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "ba0ed55f-92ae-4643-b8d5-ba3342413af5",
+        "correctAnswer": "Texture",
+        "incorrectAnswers": [
+            "Foreshortening",
+            "Perspective",
+            "Value"
+        ],
+        "question": "49-The 19th century artist Vincent Van Gogh is famous for his dramatic brushstrokes and thick globs of paint. Which artistic element is this?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "3d69ef33-2a63-4f98-a501-8762acaf2eae",
+        "correctAnswer": "The Rule of Thirds",
+        "incorrectAnswers": [
+            "The Birth of the Blues",
+            "The Allegory of the Cave",
+            "The Pythagorean Theorem"
+        ],
+        "question": "50-What is a simplified version of the Golden Section?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "a31b8447-0496-4be1-b262-72df74c2aba8",
+        "correctAnswer": "True",
+        "incorrectAnswers": [
+            "False",
+            ",",
+            "."
+        ],
+        "question": "51-A diagonal line indicates action.",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "f3516c3c-4e28-4e02-9a51-93e9361864e5",
+        "correctAnswer": "Foreshadowing.",
+        "incorrectAnswers": [
+            "Complication",
+            "Irony",
+            "Peripety."
+        ],
+        "question": "52-In the tragedy Oedipus Rex, Oedipus questions a blind man who refuses to tell him anything. Oedipus curses him for being so uncooperative; the blind man's reply is an example of what?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "ad6cfc67-e2b8-4a99-a800-1e1840aea373",
+        "correctAnswer": "Sophocles",
+        "incorrectAnswers": [
+            "Aristotle",
+            "Arles",
+            "Thebes"
+        ],
+        "question": "53-Who wrote the play Oedipus Rex?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "b55ec9f0-e506-40b8-bc58-409022ee9c6a",
+        "correctAnswer": "The part of the story from the change to the end of the story.",
+        "incorrectAnswers": [
+            "The part of the story from the beginning to the change in the principle character's fortunes.",
+            "The resolution.",
+            "The success of a story."
+        ],
+        "question": "54-What is the denouement?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "fca0e15d-7905-4df9-a5ca-3ff5e7b8139e",
+        "correctAnswer": "The part of the story from the beginning to the change in the principle character's fortunes.",
+        "incorrectAnswers": [
+            "The part of the story from the change to the end of the story.",
+            "The success of a story.",
+            "A condition aggravating an already existing one."
+        ],
+        "question": "55-What is the complication?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "d432d07e-1cfb-4564-9bfe-18042cefbdd0",
+        "correctAnswer": "A mutton, lettuce, and tomato sandwich.",
+        "incorrectAnswers": [
+            "Loose change in the pocket of a person who is all dead.",
+            "True love.",
+            "A paper cut with lemon juice poured on it."
+        ],
+        "question": "56-According to Miracle Max, what is the greatest thing in the world?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "e4ef901e-1610-405d-af1e-114bd116d14a",
+        "correctAnswer": "Comedy of character.",
+        "incorrectAnswers": [
+            "Cartoons of political figures.",
+            "A caricature.",
+            "Physical comedy such as slapstick."
+        ],
+        "question": "57-What is high comedy?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "7e350047-e474-4109-bdb2-ea2f904bfc4b",
+        "correctAnswer": "All of these.",
+        "incorrectAnswers": [
+            "Cause us to pity the protagonist.",
+            "To imitate action.",
+            "To induce the emotions fear and pity."
+        ],
+        "question": "58-According to Aristotle what is tragedy's proper pleasure?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "8d318041-5f14-4c98-a48a-70c56626905a",
+        "correctAnswer": "Kills a man who demands that he get off the road.",
+        "incorrectAnswers": [
+            "Falls in love with a siren",
+            "Rescues the city from a monster.",
+            "Kills the king's assassin."
+        ],
+        "question": "59-What does Oedipus Rex do while traveling toward the city of Thebes?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "b7702699-26f0-4d55-a185-ebac9c2f03ee",
+        "correctAnswer": "The King and Queen of Corinth",
+        "incorrectAnswers": [
+            "A Sphinx",
+            "A shepherd",
+            "The oracle or prophet of the god Apollo."
+        ],
+        "question": "60-Who raised Oedipus to be a young man?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "eadaffe9-68a5-4dea-859f-63ba3ac9b72c",
+        "correctAnswer": "The characters being presented with choices.",
+        "incorrectAnswers": [
+            "Flashback and reminiscences",
+            "Episodic plots.",
+            "Dramatic structure"
+        ],
+        "question": "61-What causes conflict in a story?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "fe92a1ab-7dd6-4408-9507-f134086134a1",
+        "correctAnswer": "His real father",
+        "incorrectAnswers": [
+            "His brother",
+            "The shepherd who saved him",
+            "A sphinx."
+        ],
+        "question": "62-Who did Oedipus fight and kill on the road to Thebes?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "95f82216-8c11-4c6e-8436-011a4a930a57",
+        "correctAnswer": "The events that led up to the beginning of the play.",
+        "incorrectAnswers": [
+            "A story without conflict.",
+            "Events portrayed in the order in which they occur.",
+            "A story told in a straightforward, linear fashion."
+        ],
+        "question": "63-What is backstory?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "2deddc73-3e73-44c8-9fc0-38e35f26d62e",
+        "correctAnswer": "The main character in a story.",
+        "incorrectAnswers": [
+            "The main character's opponent.",
+            "An extraordinary character.",
+            "A representative character."
+        ],
+        "question": "64-What is the protagonist?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "38735b9f-64a6-42d1-be89-72b6bf3a06cc",
+        "correctAnswer": "King and Queen of Thebes",
+        "incorrectAnswers": [
+            "King and Queen of Corinth",
+            "A sphinx",
+            "The God Apollo"
+        ],
+        "question": "65-The tragic tale of Oedipus Rex begins when who received a prophecy?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "46307347-a5b9-4775-876a-0e7bb952783e",
+        "correctAnswer": "He rescued the city from a monster called the Sphinx.",
+        "incorrectAnswers": [
+            "He exacts revenge on his mother.",
+            "He fulfilled the prophecy.",
+            "He killed the King's assassin."
+        ],
+        "question": "66-Why does the grateful city of Thebes offer the throne to Oedipus?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "13923fa3-d104-42e8-9524-bee03fe27a94",
+        "correctAnswer": "Foreshadowing.",
+        "incorrectAnswers": [
+            "Complication",
+            "Irony",
+            "Peripety."
+        ],
+        "question": "67-In the tragedy Oedipus Rex, Oedipus questions a blind man who refuses to tell him anything. Oedipus curses him for being so uncooperative; the blind man's reply is an example of what?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "1739e24e-4c3e-4609-8593-abd152a6087d",
+        "correctAnswer": "Sophocles",
+        "incorrectAnswers": [
+            "Aristotle",
+            "Arles",
+            "Thebes"
+        ],
+        "question": "68-Who wrote the play Oedipus Rex?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "4e8b78b2-a93b-462d-817d-4dc023127e2e",
+        "correctAnswer": "The part of the story from the change to the end of the story.",
+        "incorrectAnswers": [
+            "The part of the story from the beginning to the change in the principle character's fortunes.",
+            "The resolution.",
+            "The success of a story."
+        ],
+        "question": "69-What is the denouement?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "d9560620-345f-4baa-b9ec-20f653741aa3",
+        "correctAnswer": "The part of the story from the beginning to the change in the principle character's fortunes.",
+        "incorrectAnswers": [
+            "The part of the story from the change to the end of the story.",
+            "The success of a story.",
+            "A condition aggravating an already existing one."
+        ],
+        "question": "70-What is the complication?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "bd359944-d50b-465c-a89d-b06f2b2b439d",
+        "correctAnswer": "A mutton, lettuce, and tomato sandwich.",
+        "incorrectAnswers": [
+            "Loose change in the pocket of a person who is all dead.",
+            "True love.",
+            "A paper cut with lemon juice poured on it."
+        ],
+        "question": "71-According to Miracle Max, what is the greatest thing in the world?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "6bcb8a6d-b2ee-405d-8d61-dc02cd8e1cfc",
+        "correctAnswer": "Repeating the same consonant sound at the beginning of several words.",
+        "incorrectAnswers": [
+            "The repetition of a vowel sound anywhere in the word.",
+            "The repetition of a consonant sound anywhere in the word.",
+            "Words that look like they should rhyme but don't (through, rough)."
+        ],
+        "question": "72-What is alliteration?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "d0ee7d91-22e0-4dac-a77c-39bee561c760",
+        "correctAnswer": "A short poem that represents the thoughts and feelings of a given author on some topic.",
+        "incorrectAnswers": [
+            "A speech of a narrator or character from a drama.",
+            "A story.",
+            "A sweeping and long poem with a scope that is far broader than any other genre of poetry."
+        ],
+        "question": "73-What is a lyric poem?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "3d072961-70af-4c86-9bef-b6ef8b116c31",
+        "correctAnswer": "A word's dictionary definition.",
+        "incorrectAnswers": [
+            "Connecting and comparing two things with a form of the verb \"to be.\"",
+            "A word's implication and undertone.",
+            "Language that goes beyond literal meaning and exploits its words' connotation."
+        ],
+        "question": "74-What is denotation?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "e628641d-cbf8-4581-b366-91d6b8cbff35",
+        "correctAnswer": "14 lines of iambic pentameter.",
+        "incorrectAnswers": [
+            "Poetry that conforms to no restrictions.",
+            "Perspective, all stories told from a point of view of some kind of narrator.",
+            "Free verse without rhyme, rhythm and meter."
+        ],
+        "question": "75-What is the common form of all sonnets?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "ae261575-3d19-422b-a23f-9fe40811020b",
+        "correctAnswer": "A foot",
+        "incorrectAnswers": [
+            "Alliteration",
+            "Assonance",
+            "Consonance"
+        ],
+        "question": "76-What do you call one repetition of a metrical pattern?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "7a5ca47f-c3bd-41e4-b642-058f5592cf0a",
+        "correctAnswer": "A word's dictionary definition.",
+        "incorrectAnswers": [
+            "Language that goes beyond literal meaning and exploits its words' connotation.",
+            "A word's implication and undertone.",
+            "Connecting and comparing two things with a form of the verb \"to be.\""
+        ],
+        "question": "77-What is denotation?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "ede96092-2ead-46f4-b4de-d903d2fd355e",
+        "correctAnswer": "Language that goes beyond literal meaning and exploits its words' connotation.",
+        "incorrectAnswers": [
+            "Connecting and comparing two things with a form of the verb \"to be.\"",
+            "A word's implication and undertone",
+            "A word's dictionary definition."
+        ],
+        "question": "78-What is figurative language?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "f4236715-e1c9-4f09-83bc-06b57ed2558f",
+        "correctAnswer": "A foot",
+        "incorrectAnswers": [
+            "Alliteration",
+            "Assonance",
+            "Consonance"
+        ],
+        "question": "79-What do you call one repetition of a metrical pattern?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "bfc67807-f9a3-40b5-a30d-3965187eea12",
+        "correctAnswer": "False",
+        "incorrectAnswers": [
+            "True",
+            ".",
+            ","
+        ],
+        "question": "80-A dramatic poem is always an excerpt from a play.",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "9f708322-0c56-4a7b-ba93-341cb8224e52",
+        "correctAnswer": "Foundations myths of a given society.",
+        "incorrectAnswers": [
+            "To describe the effects of evil.",
+            "To reveal the narrator's character.",
+            "To quickly convey the author's thoughts and emotions."
+        ],
+        "question": "81-What are epic poems usually used for?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "8bc0fb50-ad25-4c6d-8f4a-5e4ce9963744",
+        "correctAnswer": "The repetition of a consonant sound anywhere in the word.",
+        "incorrectAnswers": [
+            "Words that look like they should rhyme but don't (through, rough).",
+            "Repeating the same consonant sound at the beginning of several words.",
+            "The repetition of a vowel sound anywhere in the word."
+        ],
+        "question": "82-What is consonance?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "d693eb39-c23c-4df6-823e-7c441f1fb51d",
+        "correctAnswer": "The themes, arguments, and overall meaning of the action.",
+        "incorrectAnswers": [
+            "Both the way the actors enunciate the text and the literary style of the text itself.",
+            "The rating.",
+            "The viewer's opinion about the play or film."
+        ],
+        "question": "83-What is the thought of a play or film?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "e3d3f977-950c-428f-9688-2c18e17fed78",
+        "correctAnswer": "Sight rhyme",
+        "incorrectAnswers": [
+            "Slant rhyme",
+            "End rhyme",
+            "Near rhyme"
+        ],
+        "question": "84-What do we call it when words look like they should rhyme but don't (through, rough)?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "be11de4b-2b2a-4f54-9678-22be3df294f3",
+        "correctAnswer": "A foot",
+        "incorrectAnswers": [
+            "Assonance",
+            "Alliteration",
+            "Consonance"
+        ],
+        "question": "85-What do you call one repetition of a metrical pattern?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "b3549825-d585-4282-8704-07419a17753a",
+        "correctAnswer": "Five",
+        "incorrectAnswers": [
+            "Four",
+            "Six",
+            "Eight"
+        ],
+        "question": "86-How many feet does iambic pentameter have?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "0f6d7aba-5db9-420d-8bb4-d72c2397a3d0",
+        "correctAnswer": "The Protestant Reformation",
+        "incorrectAnswers": [
+            "Building of monasteries",
+            "The Crusades",
+            "The birth of modern nation states"
+        ],
+        "question": "87-What was not an important event of the Middle Ages?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "e2602f55-66e7-44be-9525-61ee1d007814",
+        "correctAnswer": "An improvement in agriculture and the birth of early European nation states.",
+        "incorrectAnswers": [
+            "The conversion of the Vikings.",
+            "The philosophies of Aristotle.",
+            "The invention of the printing press."
+        ],
+        "question": "88-What brought back a modicum of prosperity and security in the second half of the Middle Ages?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "300841c9-5415-4aec-adf6-616a229d5213",
+        "correctAnswer": "The idea is perfect and unchanging.",
+        "incorrectAnswers": [
+            "The idea is unformed and therefore malleable.",
+            "Ideas are free.",
+            "Ideas are easier to create than actual objects."
+        ],
+        "question": "89-Why did Plato consider the idea of a chair more important than an actual chair?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "ace671ec-e212-485d-9995-439d5a1bd282",
+        "correctAnswer": "Reims Cathedral",
+        "incorrectAnswers": [
+            "Paris",
+            "Castillon",
+            "Clovis"
+        ],
+        "question": "90-Where were the French Kings crowned?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "554ab4ea-d5e7-4954-a820-e3534807a99d",
+        "correctAnswer": "Style",
+        "incorrectAnswers": [
+            "Composition",
+            "Tone",
+            "Genre"
+        ],
+        "question": "91-What is the result of the many choices an artist makes regarding the medium, elements, and form of their art?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "e4eac54a-9fb9-423b-9d1f-6ab379dca2ed",
+        "correctAnswer": "Ascent of the soul into the intellectual world",
+        "incorrectAnswers": [
+            "Death",
+            "Man's Search for Happiness",
+            "Resurrection"
+        ],
+        "question": "92-In the famous \"Allegory of the Cave,\" our text explains that leaving the cave or the upward journey represents:",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "1f601040-acff-451b-9473-40cce74426ba",
+        "correctAnswer": "The Protestant Reformation",
+        "incorrectAnswers": [
+            "Building of monasteries",
+            "The Crusades",
+            "The birth of modern nation states"
+        ],
+        "question": "93-What was not an important event of the Middle Ages?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "2224df54-eba6-47cd-ab9c-b8d1136b9e2b",
+        "correctAnswer": "He loved tragedy.",
+        "incorrectAnswers": [
+            "He favored censorship of music.",
+            "He believed young people should avoid slothful or lustful music.",
+            "He believed the universe was created according to musical principles."
+        ],
+        "question": "94-What is not true about Plato?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "86081cd0-1e07-4476-bba1-2926ead95d46",
+        "correctAnswer": "The world of sight",
+        "incorrectAnswers": [
+            "The birth of the world",
+            "Industrial future",
+            "Agriculture past"
+        ],
+        "question": "95-In the famous \"Allegory of the Cave,\" what does the cave, or prison-house, represent?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "fe5055fa-0178-4a2f-9756-7f1d2d661481",
+        "correctAnswer": "Exemplary, of top quality, outstanding",
+        "incorrectAnswers": [
+            "Out-dated or old",
+            "Revival",
+            "Dionysian"
+        ],
+        "question": "96-What does the word classic mean?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "0e2c2509-00bf-4e1b-a29a-534585678d68",
+        "correctAnswer": "Rebirth",
+        "incorrectAnswers": [
+            "End of ancient times",
+            "Human freedom",
+            "Protestant Reformation"
+        ],
+        "question": "97-What does the name renaissance mean?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "c6c70311-a611-4b73-8d86-6ea22f2b9e22",
+        "correctAnswer": "The idea is perfect and unchanging.",
+        "incorrectAnswers": [
+            "The idea is unformed and therefore malleable.",
+            "Ideas are free.",
+            "Ideas are easier to create than actual objects."
+        ],
+        "question": "98-Why did Plato consider the idea of a chair more important than an actual chair?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "3edc879e-2cad-4464-af4b-87cfa8a02b11",
+        "correctAnswer": "Metaphysics",
+        "incorrectAnswers": [
+            "Epicureanism",
+            "Stoicism",
+            "Cynicism"
+        ],
+        "question": "99-What branch of philosophy deals with the question, \"What is real\"?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "59e1063d-d28c-4b74-aa11-08a9c1ca8098",
+        "correctAnswer": "Romans were so impressed with Greek culture that they made it their own and spread it throughout the world.",
+        "incorrectAnswers": [
+            "Greek soldiers used a trojan horse to sneak inside the gates of Rome.",
+            "German barbarians conquered the western half of the Roman empire in 500 A.D.",
+            "Barbarian depredations, political disorder, and a drastic population decrease marked the beginning of the Dark Ages."
+        ],
+        "question": "100-The old saying \"Rome conquered Greece but Greece conquered Rome\" means:",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "2e204876-c060-46ce-9bd3-9105955b7432",
+        "correctAnswer": "Ancient, Middle Ages, Modern",
+        "incorrectAnswers": [
+            "Old Kingdom, Middle Kingdom, New Kingdom",
+            "Mesopotamian history, Dark Ages, Modern history",
+            "Age of Discovery, Renaissance, Protestant Reformation"
+        ],
+        "question": "101-In HUM 110, we will divide the history of the world into what three parts:",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "90239f3b-bac4-4a85-b1e7-ea3ca642faec",
+        "correctAnswer": "Van Eyck",
+        "incorrectAnswers": [
+            "Peter Brueghel The Elder and Peter Brueghel The Younger",
+            "Rembrandt",
+            "Petrus Christus"
+        ],
+        "question": "102-Which set of brothers were pioneers in the development of oil paint?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "4e3a24be-f630-4f41-8a48-e4adfcb5acd9",
+        "correctAnswer": "Hellenistic",
+        "incorrectAnswers": [
+            "Late Bronze Age",
+            "Byzantine",
+            "Neolithic"
+        ],
+        "question": "103-What was the name of the Greek style as it spread throughout the Mediterranean world in the second and first centuries BCE?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "ffd7cd0b-6003-41a5-a33e-8dc68b08c6ad",
+        "correctAnswer": "The intersecting arch.",
+        "incorrectAnswers": [
+            "The spinning wheel allowed for tapestries to be mass produced.",
+            "Evil spirits that might try to move into the cathedral were scared away.",
+            "Astronomical clocks."
+        ],
+        "question": "104-What was the technological advance of the Gothic style?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "a62c8034-bd45-4e3e-ba38-73a4548540f1",
+        "correctAnswer": "To influence the things of the natural world, to bring about a successful hunt.",
+        "incorrectAnswers": [
+            "To express deep emotions without words.",
+            "Because it's fun to make things.",
+            "To give comfort to those who had died."
+        ],
+        "question": "105-Why do we think the Lascaux cave painters created their art?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "fd22e736-2d9c-4bd7-97ce-08d36609bed0",
+        "correctAnswer": "To show the objects from their best, most recognizable angle so that they have the most direct and powerful influence over the next life.",
+        "incorrectAnswers": [
+            "It was the best the primitive people could do.",
+            "It's a joke, similar to a caricature.",
+            "To emphasize the importance of the physical body."
+        ],
+        "question": "106-Why do Egyptian paintings show some parts of the body straight on and some in profile?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "55e4d362-9361-47aa-a2c6-dd926aa40b30",
+        "correctAnswer": "The intersecting arch.",
+        "incorrectAnswers": [
+            "The spinning wheel allowed for tapestries to be mass produced.",
+            "Evil spirits that might try to move into the cathedral were scared away.",
+            "Astronomical clocks."
+        ],
+        "question": "107-What was the technological advance of the Gothic style?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "3532a75a-046c-4a74-b848-5ea1c636a8ce",
+        "correctAnswer": "Giotto",
+        "incorrectAnswers": [
+            "Rembrandt",
+            "Van Eyck",
+            "Michelangelo"
+        ],
+        "question": "108-Which artist led the realistic revolution in painting in the 1300s?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "2624568b-26a9-4ce6-afce-8ee07236e02c",
+        "correctAnswer": "A spiritual reality",
+        "incorrectAnswers": [
+            "An object's best, most recognizable angle",
+            "Political reality",
+            "Natural settings"
+        ],
+        "question": "109-What did the Byzantines seek to show rather than physical realism?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "fecebcc3-7df0-448b-aca9-69f10350ef65",
+        "correctAnswer": "Baby Jesus as a little man",
+        "incorrectAnswers": [
+            "The Apostle Paul",
+            "John the Baptist",
+            "The Angel Gabriel"
+        ],
+        "question": "110-\"Madonna and Child\" illustrates that Byzantine art is uninterested in a physical realism. This painting shows who with frontal views, stern expressions, and oversized eyes:",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "6dfec1d5-9aa6-47eb-911e-7597aa95f5a7",
+        "correctAnswer": "A spiritual reality",
+        "incorrectAnswers": [
+            "An object's best, most recognizable angle",
+            "Political reality",
+            "Natural settings"
+        ],
+        "question": "111-What did the Byzantines seek to show rather than physical realism?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "2b7710fe-7aa9-4e13-b18f-70ec452b5003",
+        "correctAnswer": "Build high walls with stained-glass windows",
+        "incorrectAnswers": [
+            "Build concrete foundations",
+            "Insulate walls, ceilings, and floors",
+            "Use steel rods to reinforce walls and ceilings"
+        ],
+        "question": "112-What did the technological advances of the Gothic style allow Gothic builders to do?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "5db7c16b-7f36-4c8e-b0f5-3bb8c11c237e",
+        "correctAnswer": "The portrait bust",
+        "incorrectAnswers": [
+            "Relief",
+            "Monumental sculpture",
+            "Free-standing sculptures"
+        ],
+        "question": "113-What form of sculpture is uniquely Roman?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "8fd5099c-18a9-4cad-a74b-80548be57bbb",
+        "correctAnswer": "Expression",
+        "incorrectAnswers": [
+            "Form",
+            "Neither",
+            "Both"
+        ],
+        "question": "114-Does Hellenistic art favor form or expression?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "a8ec2025-5fae-48ef-988f-c779f0384def",
+        "correctAnswer": "Hellenistic",
+        "incorrectAnswers": [
+            "Late Bronze Age",
+            "Byzantine",
+            "Neolithic"
+        ],
+        "question": "115-What was the name of the Greek style as it spread throughout the Mediterranean world in the second and first centuries BCE?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "d3cd602a-e43a-4a1e-938a-ee6f8d1d4a95",
+        "correctAnswer": "France and England",
+        "incorrectAnswers": [
+            "Scotland and Ireland",
+            "France and Scotland",
+            "England and Spain"
+        ],
+        "question": "116-Who were the main combatants in the Hundred Years War?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "3c2f0603-f6b4-436f-a43e-076600bf0556",
+        "correctAnswer": "The Fall of Rome",
+        "incorrectAnswers": [
+            "The 100 Years War",
+            "The Fall of Greece",
+            "The Bubonic Plague"
+        ],
+        "question": "117-What event signaled the beginning of the Dark Ages?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "be5c7e2b-5101-4c5c-bdfd-b101c767ecbe",
+        "correctAnswer": "Johannes Gutenberg",
+        "incorrectAnswers": [
+            "Christopher Columbus",
+            "John Wycliffe",
+            "William Tyndale"
+        ],
+        "question": "118-Who brought moveable type to Europe?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "f0d4ef5d-fb8e-490c-a482-0d075471c302",
+        "correctAnswer": "Constantine",
+        "incorrectAnswers": [
+            "Augustus",
+            "Claudius",
+            "Maximinus"
+        ],
+        "question": "119-Which Roman emperor made Byzantium his capital?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "a7f78635-70bb-492a-9073-a7421437c152",
+        "correctAnswer": "The understanding that the earth was round",
+        "incorrectAnswers": [
+            "The Fall of Constantinople",
+            "The end of the Hundred Years War",
+            "The invention of movable type"
+        ],
+        "question": "120-Which event did NOT occurr in 1453, signaling the end of the Middle Ages?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "7ee6503d-b714-4dbf-8a34-1849395bbfc0",
+        "correctAnswer": "Farms",
+        "incorrectAnswers": [
+            "Small towns",
+            "Palaces",
+            "Cities"
+        ],
+        "question": "121-Where did most people live in 1453?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "5a21942b-fb5e-4ddf-a5c1-0fd86f5d2376",
+        "correctAnswer": "France and England",
+        "incorrectAnswers": [
+            "England and Spain",
+            "Scotland and Ireland",
+            "France and Scotland"
+        ],
+        "question": "122-Who were the main combatants in the Hundred Years War?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "9d11939e-3eba-4532-bc52-743183a6e99f",
+        "correctAnswer": "Lice/Fleas",
+        "incorrectAnswers": [
+            "Germs",
+            "Gnats",
+            "Atoms"
+        ],
+        "question": "123-What were the smallest living things anyone knew about in 1453? Select all that apply.",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "7e07dbc5-dc25-4cad-a4d5-df801030ab38",
+        "correctAnswer": "The Fall of Rome",
+        "incorrectAnswers": [
+            "The 100 Years War",
+            "The Bubonic Plague",
+            "The Fall of Greece"
+        ],
+        "question": "124-What event signaled the beginning of the Dark Ages?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "51af61ad-d02a-49b7-8475-4c5ec037e8de",
+        "correctAnswer": "Joan of Arc",
+        "incorrectAnswers": [
+            "Saint Anthony",
+            "King John II",
+            "King Henry V"
+        ],
+        "question": "125-Which leader inspired victory in the Hundred Year War?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "3ed81957-9e41-4d7a-9d7b-11915290b52a",
+        "correctAnswer": "Johannes Gutenberg",
+        "incorrectAnswers": [
+            "William Tyndale",
+            "Christopher Columbus",
+            "John Wycliffe"
+        ],
+        "question": "126-Who brought moveable type to Europe?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "ccb88fbb-9f67-4566-9e1f-04f38603fce1",
+        "correctAnswer": "The Battle at Crecy",
+        "incorrectAnswers": [
+            "The Fall of Rome",
+            "The Fall of Constantinople",
+            "The Battle of Calias"
+        ],
+        "question": "127-What battle marked the end of medieval warfare?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "4c1fe38d-7c10-4041-a9b9-9bab539b371d",
+        "correctAnswer": "Farms",
+        "incorrectAnswers": [
+            "Small towns",
+            "Cities",
+            "Palaces"
+        ],
+        "question": "128-Where did most people live in 1453?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "28047d8f-3f5e-4891-bf99-0d5f0a51d348",
+        "correctAnswer": "Joan of Arc",
+        "incorrectAnswers": [
+            "King John II",
+            "Saint Anthony",
+            "King Henry V"
+        ],
+        "question": "129-Which leader inspired victory in the Hundred Year War?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "20c00a00-4216-48a4-9960-4538c4011f86",
+        "correctAnswer": "The Bubonic Plague, or the Black Death",
+        "incorrectAnswers": [
+            "The 100 Years War",
+            "The Fall of Rome",
+            "Poor hygiene"
+        ],
+        "question": "130-What catastrophe reduced the population of Europe in the 1300's and 1400's?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "e1e52ee6-55c5-4f9c-bd18-a7a05a8277f4",
+        "correctAnswer": "Marco Polo",
+        "incorrectAnswers": [
+            "Plato",
+            "Herman Melville",
+            "Geoffrey Chaucer"
+        ],
+        "question": "131-Who wrote a book about a Venetian party traveling to China?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "0634f386-fb47-44f5-bb15-2dc783d992d9",
+        "correctAnswer": "John Calvin",
+        "incorrectAnswers": [
+            "Martin Luther",
+            "Henry Vlll",
+            "John Wycliffe"
+        ],
+        "question": "132-Which Protestant reformer insisted that churches be stripped of idolatrous images?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "77561b87-17c2-425d-a416-11f02cc8ba7e",
+        "correctAnswer": "It made them less interested in the things of this world.",
+        "incorrectAnswers": [
+            "It made them more interested in natural phenomenon.",
+            "It made them more interested in the human body.",
+            "It made them less interested in religion."
+        ],
+        "question": "133-How did Plato's ideas affect the art of the Middle Ages?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "40dcc1c3-36d4-4dcb-bb82-987ac57d87a9",
+        "correctAnswer": "Galileo",
+        "incorrectAnswers": [
+            "Roger Bacon",
+            "Michelangelo",
+            "William of Ockham"
+        ],
+        "question": "134-Who proved the Copernican model of the solar system using a telescope?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "29646759-0ebd-4921-86c7-a914a2b31d37",
+        "correctAnswer": "The Council of Trent",
+        "incorrectAnswers": [
+            "The creation of the Jesuits",
+            "The Protestant Reformation",
+            "The 30 Years War"
+        ],
+        "question": "135-What was the key event of the Counter-Reformation?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "268d67c8-9522-4a5d-b46b-ec65ef93b517",
+        "correctAnswer": "John Calvin",
+        "incorrectAnswers": [
+            "John Wycliffe",
+            "Henry Vlll",
+            "Martin Luther"
+        ],
+        "question": "136-Which Protestant reformer insisted that churches be stripped of idolatrous images?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "d1a4f2e5-48c0-4f98-817a-a1e7db9ad573",
+        "correctAnswer": "Lorenzo de Medici",
+        "incorrectAnswers": [
+            "Leonardo da Vinci",
+            "Andrea del Verrocchio",
+            "Sandro Botticelli"
+        ],
+        "question": "137-What rich political leader was an important patron of the arts in Florence?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "80a864f8-4469-4c55-81cc-8e85e463c366",
+        "correctAnswer": "The civilizations of the Greeks and Romans and the Renaissance",
+        "incorrectAnswers": [
+            "The Greeks and the Renaissance",
+            "The civilizations of the Greeks and Romans",
+            "The Babylonians and the Renaissance"
+        ],
+        "question": "138-What was the \"Middle Ages\" the middle of?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "c8cda56b-0004-446f-9c0d-102552a9a20d",
+        "correctAnswer": "Marco Polo",
+        "incorrectAnswers": [
+            "Plato",
+            "Geoffrey Chaucer",
+            "Herman Melville"
+        ],
+        "question": "139-Who wrote a book about a Venetian party traveling to China?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "d24bc28d-e47a-4275-95e0-62aa99db2af9",
+        "correctAnswer": "Galileo",
+        "incorrectAnswers": [
+            "Michelangelo",
+            "William of Ockham",
+            "Roger Bacon"
+        ],
+        "question": "140-Who proved the Copernican model of the solar system using a telescope?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "7af6bb41-f13f-4e44-b292-dde8c37ce10b",
+        "correctAnswer": "Galileo",
+        "incorrectAnswers": [
+            "Michelangelo",
+            "Roger Bacon",
+            "William of Ockham"
+        ],
+        "question": "141-Who proved the Copernican model of the solar system using a telescope?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "23e6cc8c-cd47-4eab-aef4-62b0650863fb",
+        "correctAnswer": "So he could divorce his first wife.",
+        "incorrectAnswers": [
+            "So he could ignore the Pope.",
+            "So he could support John Calvin.",
+            "So he could be the Pope."
+        ],
+        "question": "142-Why did Henry VIII lead England out of the Roman Catholic Church?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "05a5fb71-d2eb-48b5-bed7-d7708716bde2",
+        "correctAnswer": "The burial place of Peter the Apostle",
+        "incorrectAnswers": [
+            "The site of the Pentecost",
+            "A battle ground won by the Warrior Pope, Julius the 2nd",
+            "The hill where Peter preached to the Romans"
+        ],
+        "question": "143-St. Peter's Basilica was originally built over what place?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "2c9c5461-2cf1-40d9-b465-a47f7312c4ea",
+        "correctAnswer": "Reconquista",
+        "incorrectAnswers": [
+            "La Resistencia",
+            "Guerra de Libertad",
+            "Conquista"
+        ],
+        "question": "144-What did the Spanish call their war to take back Spain from the Muslims?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "a060f36f-1515-47ed-ba08-914b428da01d",
+        "correctAnswer": "Empiricism",
+        "incorrectAnswers": [
+            "historicism",
+            "idealism",
+            "rationalism"
+        ],
+        "question": "145-What is the word for the belief that mankind's only access to truth is through the senses?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "5beb280e-65d3-4564-8529-e2ea13bfdfc1",
+        "correctAnswer": "A dagger",
+        "incorrectAnswers": [
+            "The King",
+            "A sword",
+            "His wife"
+        ],
+        "question": "146-Before the murder, Macbeth sees a vision. What is it of?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "7974fbc0-704e-4e5b-a98e-e9c626a562d8",
+        "correctAnswer": "Because his conscience will keep him from sleeping again",
+        "incorrectAnswers": [
+            "Because he is an insomniac",
+            "Because Duncan is the King of Sleep",
+            "Because Macbeth will not sleep that night"
+        ],
+        "question": "147-Why does Macbeth say \"Macbeth does murder sleep\"?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "3b88556f-2a89-462f-85d4-fcf458a374c6",
+        "correctAnswer": "Their beards",
+        "incorrectAnswers": [
+            "Macbeth's doubt",
+            "Their faces",
+            "Their hands"
+        ],
+        "question": "148-What makes Banquo doubt that the witches are women?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "8068c0d0-0fbe-4d40-b19e-a94e9a31b9b7",
+        "correctAnswer": "Unrhymed iambic pentameter",
+        "incorrectAnswers": [
+            "Rhymed iambic pentameter",
+            "Unrhymed monometer",
+            "Rhymed monometer"
+        ],
+        "question": "149-What is blank verse?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "b7257248-750d-4bd2-a64b-0b29c7a706bf",
+        "correctAnswer": "He made Banquo, James' ancestor, innocent of the murder.",
+        "incorrectAnswers": [
+            "He made Macbeth doubt.",
+            "He made Malcom, James' ancestor, innocent of the murder.",
+            "He insulted Banquo by saying he is not a man."
+        ],
+        "question": "150-How did Shakespeare adapt the story of Macbeth to suit the tastes of James I, King of England?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "a661488c-0806-4328-a382-734c23022daf",
+        "correctAnswer": "When a single character speaks their thoughts aloud not intending other characters to hear",
+        "incorrectAnswers": [
+            "When the audience knows something the character does not",
+            "When a character speaks their thoughts aloud to another character",
+            "When a character speaks directly to the audience"
+        ],
+        "question": "152-What is a soliloquy?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "d63a4272-4d3e-4fc4-92f1-907a1d29b002",
+        "correctAnswer": "The original thane was executed for treason",
+        "incorrectAnswers": [
+            "The original thane fled to England",
+            "The original thane died in the war",
+            "The original thane was his father"
+        ],
+        "question": "153-How did Macbeth get to be Thane of Cawdor?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "357342a7-1116-46af-8d43-f839044023d9",
+        "correctAnswer": "The Thane of Cawdor",
+        "incorrectAnswers": [
+            "The King of England",
+            "The King of Scotland",
+            "The Thane of Glenco"
+        ],
+        "question": "154-Of whom does Malcolm say, \"Nothing in his life Became him like the leaving it\"?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "a4271015-9fac-481a-801f-f189c97a3a64",
+        "correctAnswer": "Duncan",
+        "incorrectAnswers": [
+            "Banquo",
+            "Malcolm",
+            "Macbeth"
+        ],
+        "question": "155-Who is the king of Scotland at the beginning of the play?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "38a040b5-4afe-435d-8667-85245d3c0a2c",
+        "correctAnswer": "Calling him a coward and not a man",
+        "incorrectAnswers": [
+            "Calls him a coward and a drunk",
+            "Insulting his manhood by saying he had no courage",
+            "Insulting him by saying he is not a man"
+        ],
+        "question": "157-When Macbeth hesitates, how does Lady Macbeth persuade him to go through with the awful deed?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "2a4a189f-8962-4919-a19d-f17b25f01c1e",
+        "correctAnswer": "The original thane was executed for treason",
+        "incorrectAnswers": [
+            "The original thane fled to England",
+            "The original thane died in the war",
+            "The original thane was his father"
+        ],
+        "question": "158-How did Macbeth get to be Thane of Cawdor?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "5071d7ba-972b-495c-9f1f-04553da46a59",
+        "correctAnswer": "The Thane of Cawdor",
+        "incorrectAnswers": [
+            "The Thane of Glenco",
+            "The King of England",
+            "The King of Scotland"
+        ],
+        "question": "159-Of whom does Malcolm say, \"Nothing in his life Became him like the leaving it\"?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "33594236-184d-4681-bb3e-a57ea92950fc",
+        "correctAnswer": "She keeps trying to wash the blood off her hands",
+        "incorrectAnswers": [
+            "She has visions of blood on the ground",
+            "She keeps trying to wash a freckle off her hand",
+            "She has visions of the murdered king"
+        ],
+        "question": "160-What is the nature of Lady Macbeth's madness?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "123443af-e0c3-4037-8d72-05f4791f42c4",
+        "correctAnswer": "The invading soldiers camouflaged themselves with tree branches",
+        "incorrectAnswers": [
+            "The invading soldiers brought battering rams made in Birnam Wood",
+            "The invading soldiers lived in Birnam Wood",
+            "The invading soldiers brought ladders made in Birnam Wood"
+        ],
+        "question": "161-How did Birnam Wood come to Dunsinane?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "701df063-5535-4d87-ba57-9aa5f21bb614",
+        "correctAnswer": "Scorpions",
+        "incorrectAnswers": [
+            "Hornets",
+            "Witches' lies",
+            "Darkness"
+        ],
+        "question": "162-What does Macbeth say his mind is full of?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "a32e78eb-9062-455a-8ba7-f1a10e3c0f13",
+        "correctAnswer": "He escapes",
+        "incorrectAnswers": [
+            "He is murdered",
+            "He drowns",
+            "He is put in prison"
+        ],
+        "question": "163-What happens to Fleance?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "95335dca-a18c-4e95-8171-291efff5bec6",
+        "correctAnswer": "The three witches",
+        "incorrectAnswers": [
+            "Lady Macduff",
+            "Lady Macbeth",
+            "Hectate"
+        ],
+        "question": "164-Who says \"Double, Double, Toil and Trouble\"?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "98625a65-dc00-479c-8e23-66601e14fba8",
+        "correctAnswer": "She keeps trying to wash the blood off her hands",
+        "incorrectAnswers": [
+            "She has visions of the murdered king",
+            "She keeps trying to wash a freckle off her hand",
+            "She has visions of blood on the ground"
+        ],
+        "question": "165-What is the nature of Lady Macbeth's madness?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "2b6700d7-e66a-4f91-a0b7-139d3646a7a7",
+        "correctAnswer": "Malcolm",
+        "incorrectAnswers": [
+            "Fleance",
+            "Duncan",
+            "Banquo"
+        ],
+        "question": "166-Who is king at the end of the play?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "c133796c-877e-453e-8014-db8e41639673",
+        "correctAnswer": "An armed head, a bloody child, and a royal child",
+        "incorrectAnswers": [
+            "An armed head, a royal child, and a tree branch",
+            "A bloody child, a royal child, and wolf",
+            "An armed head, a bloody child and a dagger"
+        ],
+        "question": "167-What three apparitions do the witches call up for Macbeth?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "a0f6795d-0b54-4b80-be46-b11660da9299",
+        "correctAnswer": "To be born by Caesarian Section",
+        "incorrectAnswers": [
+            "To be born of Hectate, Mother of Magic",
+            "To be born of the Fae, Spirits of the land",
+            "To be born of the earth as was Adam"
+        ],
+        "question": "168-How is it possible to not be \"of a woman born\"?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "badbb64b-9dba-4610-b8b1-d2cbf5ecdce1",
+        "correctAnswer": "The witches say he would be the ancestor of kings",
+        "incorrectAnswers": [
+            "The witches say that he will kill Macbeth",
+            "The witches say he was greater than Macbeth",
+            "The witches say he would be king"
+        ],
+        "question": "169-Why does Macbeth fear Banquo?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "a7b0e4ce-bee5-4647-b0f4-745343c12ef9",
+        "correctAnswer": "timpani or kettledrum, cymbals, xylophone",
+        "incorrectAnswers": [
+            "lute, recorder, sitar",
+            "bassoon, piccolo, tuba",
+            "french horn, harp, trombone"
+        ],
+        "question": "170-Indicate three percussion instruments:",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "27ee39c6-ebd8-4898-bad7-5c617bb6c016",
+        "correctAnswer": "Roman arches, Barrel vaults, Small windows, Stacked levels",
+        "incorrectAnswers": [
+            "Intersecting arches and High ceilings",
+            "Giant stained glass windows",
+            "Flying buttresses and cement used for building"
+        ],
+        "question": "171-What characterizes Romanesque architecture?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "41ce0597-51d0-4162-a4e7-87ff3bbc1ee5",
+        "correctAnswer": "Hellenistic",
+        "incorrectAnswers": [
+            "Gothic",
+            "Romanesque",
+            "Corinthian"
+        ],
+        "question": "172-What was the name of the Greek style as it spread throughout the Mediterranean world in the second and first centuries BCE?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "74cae008-829f-4932-8221-3634468934ee",
+        "correctAnswer": " expression",
+        "incorrectAnswers": [
+            "form",
+            "medium",
+            "themes"
+        ],
+        "question": "173-6.\tWhich does Hellenistic art favor?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "78c58214-c377-4e63-adc9-c97444742ad2",
+        "correctAnswer": "? spiritual or symbolic reality",
+        "incorrectAnswers": [
+            "physical realism",
+            "emotional expression",
+            "innovation"
+        ],
+        "question": "174-What did the Byzantines seek to show?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "72438b28-a84b-4c8d-beca-4dfa6cf9f81d",
+        "correctAnswer": "Portrait bust",
+        "incorrectAnswers": [
+            "marble sculpture",
+            "oil painting",
+            "fresco painting"
+        ],
+        "question": "175-What form of sculpture is uniquely Roman?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "5e297a3b-2001-486c-b781-39e0276e1577",
+        "correctAnswer": "The human body",
+        "incorrectAnswers": [
+            "Spirituality",
+            "prophecy",
+            "landscapes"
+        ],
+        "question": "176-What artistic subject did the Greeks love most?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "5b9cc1f0-d019-423e-81ed-483abd5ff565",
+        "correctAnswer": "to show in two dimensions the best views of a three-dimensional figure.",
+        "incorrectAnswers": [
+            "to confuse people",
+            "to please the gods",
+            "to scare people"
+        ],
+        "question": "177-Why do Egyptian paintings show some parts of the body straight on and some in profile?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "251903af-1d86-4d96-903d-68f50e94e2a2",
+        "correctAnswer": "to bring comforts to their dead",
+        "incorrectAnswers": [
+            "to show off",
+            "to please the gods",
+            "to cause emotions"
+        ],
+        "question": "178-Why did the ancient Egyptians create their art?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "cfcd52c6-16c4-4156-897f-cb43e9a4f5a2",
+        "correctAnswer": "probably intended to influence an upcoming hunt by depicting images of great bounty",
+        "incorrectAnswers": [
+            "to record events for the future generations",
+            "to make their surroundings less drab",
+            "to laud their accomplishments"
+        ],
+        "question": "179-Why do we think the Lascaux cave painters created their art?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "280660c4-60aa-4b21-8999-be05f8125fe7",
+        "correctAnswer": "metaphysics",
+        "incorrectAnswers": [
+            "Empiricism",
+            "mathematics",
+            "science"
+        ],
+        "question": "180-What branch of philosophy deals with the question, \"What is real\"?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "4ccdb426-6771-4fdc-b11a-3e3c4f62a2f3",
+        "correctAnswer": "empiricism",
+        "incorrectAnswers": [
+            "metaphysics",
+            "mathematics",
+            "science"
+        ],
+        "question": "181-6.\tWhat do we call the belief that our five senses are our only access to truth?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "3f9e0a2f-3712-464f-a9ff-433a8c8696d8",
+        "correctAnswer": "math",
+        "incorrectAnswers": [
+            "science",
+            "philosophy",
+            "Magic"
+        ],
+        "question": "182-To Plato and Pythagoras, what other study was most closely related to Music?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "c4936285-4a58-41ff-aa63-06ba8ba54628",
+        "correctAnswer": "Socrates",
+        "incorrectAnswers": [
+            "Aristotle",
+            "Leonardo da Vinci",
+            "Lorenzo de Medici"
+        ],
+        "question": "183-Who was Plato's teacher?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "9dc10369-0473-4600-aa14-899b6625d956",
+        "correctAnswer": "Aristotle",
+        "incorrectAnswers": [
+            "Socrates",
+            "Caesar Augustus",
+            "Mark Anthony"
+        ],
+        "question": "184-Who was Plato's student?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "9b20b7a2-9270-4c58-b3ce-110d34f4c638",
+        "correctAnswer": "Pythagoras",
+        "incorrectAnswers": [
+            "Socrates",
+            "Aristotle",
+            "Michelangelo"
+        ],
+        "question": "185-4.\tWhat philosopher influenced Plato with his teachings that the universe was created according to musical and mathematical proportions?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "d5fd40cf-078d-43cb-9d16-40d2121910af",
+        "correctAnswer": "Constantine",
+        "incorrectAnswers": [
+            "188-Who was the first Roman emperor to embrace Christianity?",
+            "189-What event is used to mark the end of Ancient times?"
+        ],
+        "question": "187-Who led the French to victory in the Hundred Years War?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "08e39147-f18d-486a-8136-fc9ee1b49e31",
+        "correctAnswer": "Rebirth",
+        "incorrectAnswers": [
+            "190-6.\tWhat is the first half of the Middle Ages called?",
+            "191-7.\tWhat does the name renaissance mean?"
+        ],
+        "question": "Correct! the western half of the Roman Empire fell to German barbarians",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "1d2246c3-8ed5-456f-bcfd-552ee273f605",
+        "correctAnswer": "Banquo\u2019s son",
+        "incorrectAnswers": [
+            "193-Who is Fleance?",
+            "Duncan's son"
+        ],
+        "question": "192-8.\tWhat does the word classic mean?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "c8371adb-e32a-4f69-9d4f-16c520350347",
+        "correctAnswer": "  Banquo",
+        "incorrectAnswers": [
+            "Ross' son",
+            "194-\u2022\tWho appears to Macbeth at the banquet?",
+            "195-\u2022\tWhat do Malcolm and Donalbain do after Duncan's murder?"
+        ],
+        "question": "Macduff's son",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "eb573379-db51-408c-bab7-fe052414fccf",
+        "correctAnswer": "  Entropy",
+        "incorrectAnswers": [
+            "196-\u2022\tHow does Lady Macbeth get blood on her hands?",
+            "197-1.\tWhat is the name of the scientific principle where matter proceeds from order to disorder?"
+        ],
+        "question": "Correct!   They escaped, one to Ireland, one to England.",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "09043eb1-f5ba-4ee3-a6cf-c4d8dd4cd648",
+        "correctAnswer": "  Dionysius",
+        "incorrectAnswers": [
+            "199-1.\tWho was the Greek god of wine?",
+            "200-2.\tWhat instrument did worshippers of Apollo play?"
+        ],
+        "question": "198-2.\tWhat did Blaise Pascal say that we should always do in difficult times?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "b2b6775c-ac96-4370-8cb8-49a9d6330c82",
+        "correctAnswer": "   Painting, sculpture, architecture can be considered space art.",
+        "incorrectAnswers": [
+            "201-4.\tWhich art form is not a \"time art\"?",
+            "202-5.\tArt forms that are time art: music or literature",
+            "203-6.\tWhat is music with a subject called?"
+        ],
+        "question": "Correct!   Lyre",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "4169f919-c809-48b3-85bb-670ec83e1c8b",
+        "correctAnswer": " absolute music.",
+        "incorrectAnswers": [
+            "program music.",
+            "204-What is Music without a subject called?",
+            "205-2.\tWhat do we call the beam across the top of two posts?"
+        ],
+        "question": "Correct!   Music with a subject is known as",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "bf78c712-6a6c-4d3b-a3f7-302994a607bf",
+        "correctAnswer": "Arches create an oculus or ring open to the sky",
+        "incorrectAnswers": [
+            "206-3.\tWhat was the new building material the Romans used?",
+            "207-6.\tWhat is unique about the dome of the Pantheon?"
+        ],
+        "question": "Correct! You have two posts on the left and right of your door, and a lintel, or a board across the top held up by the two posts.",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "ea6b4dd8-0e47-4d85-8a7d-9ba4a3cb7f90",
+        "correctAnswer": "A cappella.",
+        "incorrectAnswers": [
+            "209-2.\tWhat is singing without any accompaniment called?",
+            "210-1.\tWhat do we call instruments with reeds?"
+        ],
+        "question": "208-What was the greatest influence on architecture between the fall of Rome and the 1100s?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "d4f112a2-a3bf-4b1b-ba56-8879d16a4752",
+        "correctAnswer": "Piano hammer that strike strings, harpsichord\u2019s quills pluck strings",
+        "incorrectAnswers": [
+            "211-2.\tName the members of the brass family?",
+            "212-8.\tWhat is the difference between a harpsichord and a piano?"
+        ],
+        "question": "Correct! Woodwinds.",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "ba9229d1-5dfb-4722-92ca-72fa279145b4",
+        "correctAnswer": "Meter.",
+        "incorrectAnswers": [
+            "214-2.\tWhat do we call a grouping of beats that creates pattern?",
+            "215-3.\tWhat do we call a tone with a regularly repeating pattern or rate of vibration?"
+        ],
+        "question": "213-1.\tWhat is an example of free rhythm?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "ec4b1c45-412f-4f2a-936f-e5cfad26626c",
+        "correctAnswer": "Triple meter.",
+        "incorrectAnswers": [
+            "216-4.\tIn a 2/4 time signature, how many beats are in each measure?",
+            "217-5.\tWhat meter is a waltz in?"
+        ],
+        "question": "Correct! Pitch.",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "030b2f60-c14a-421f-aee5-1c37b91ddeca",
+        "correctAnswer": "Timbre",
+        "incorrectAnswers": [
+            "219-7.\tWhat is the musical term for tone color?",
+            "220-8.\tWhat is the difference between a major and a minor scale?"
+        ],
+        "question": "218-6.\tWhat meter is a march in?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "0321e3de-27ff-498f-a604-3d429f5368bb",
+        "correctAnswer": "Conjunct.",
+        "incorrectAnswers": [
+            "221-9.\tWhat is the term for the distance between two pitches?",
+            "222-10.\tWhat do we call a melody that is mostly made-up steps?"
+        ],
+        "question": "Correct! Where the half steps fall.",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "f7a16f21-df90-4443-8c6e-0580c1e1556a",
+        "correctAnswer": "monophony, 1 Melody. Homophony, Melody and harmony. Polyphony, more than two melodies simultaneously",
+        "incorrectAnswers": [
+            "224-13.\tWhat is the difference between monophony, homophony, and polyphony?",
+            "225-Put the following in order from slowest to fastest: largo, presto, andante, allegro, moderato."
+        ],
+        "question": "223-12.\tWhat is the term for a group of notes sounded simultaneously?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "89043ab2-329d-4c6c-b3ec-e60e50d09f97",
+        "correctAnswer": "I. M. PEI.",
+        "incorrectAnswers": [
+            "226-Put the following in order from softest to loudest: fortissimo, mezzo piano, piano, forte, mezzo forte.",
+            "227-1.\tWhich architect designed the Louvre pyramid?"
+        ],
+        "question": "Correct! Largo, Adante, moderato, allegro, Vivace, Presto",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "8e42c5aa-5ee5-436d-a839-18fd0d47fe20",
+        "correctAnswer": "SFUMATO or smokiness.",
+        "incorrectAnswers": [
+            "229-3.\tWhat technique does Leonardo use to make the smile of the Mona Lisa so mysterious?",
+            "230-1.\tWhat is the term for a liquid that combines with a pigment to make paint?"
+        ],
+        "question": "228-2.\tWhat was the Louvre before it was a museum?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "8502acb9-8994-4679-a221-3c467abbb73f",
+        "correctAnswer": "Mixing pigments with water, runs easily, need heavy, damp paper so colors will stick better",
+        "incorrectAnswers": [
+            "231-2.\tWhat are the characteristics of oil paint?",
+            "232-3.\tWhat are the characteristics of watercolor paint?"
+        ],
+        "question": "Correct! Vehicle.",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "e35e0483-d92d-45a5-b0ae-9f4eaa544730",
+        "correctAnswer": "Painted on dry plaster can crack or flake and/or fade",
+        "incorrectAnswers": [
+            "234-5.\tWhat are the characteristics of a mural?",
+            "235-6.\tWhat artistic medium is made with egg?"
+        ],
+        "question": "233-4.\tWhat are the characteristics of a fresco?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "44e9fd81-05b9-47de-9079-04ff5198a2d0",
+        "correctAnswer": "Etching.",
+        "incorrectAnswers": [
+            "236-7.\tWhich artistic medium did Michelangelo use to paint the Sistine Chapel?",
+            "237-8.\tWhich artistic medium uses acid on a plate?"
+        ],
+        "question": "Correct! Tempura.",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "62f5d3c2-0dbb-4984-b731-48ed5deb9760",
+        "correctAnswer": "Low.",
+        "incorrectAnswers": [
+            "239-10.\tWhat does Bas in bas relief mean?",
+            "240-1.\tWhat does a horizontal line indicate?"
+        ],
+        "question": "238-9.\tIn what medium does an artist arrange pieces of glass, tile, stone, or other objects to make a picture?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "f19d3579-dd35-4b33-bfe3-afa4d19a7b37",
+        "correctAnswer": "Potential energy.",
+        "incorrectAnswers": [
+            "241-2.\tWhat does a diagonal line indicate?",
+            "242-3.\tWhat does a vertical line indicate?"
+        ],
+        "question": "Correct! Rest or stability.",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "c714614d-406d-4697-8121-3a237cdb8b7f",
+        "correctAnswer": "Red.",
+        "incorrectAnswers": [
+            "244-7.\tWhich is warmest color?",
+            "245-What does the element value refer to in a painting?"
+        ],
+        "question": "243-6.\tWhich is the coolest color?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "d2ff6774-0658-4765-80ab-958b02f51ee3",
+        "correctAnswer": "Shows distance to the use of lines.",
+        "incorrectAnswers": [
+            "246-What does chiaroscuro refer to?",
+            "247-What is linear perspective?"
+        ],
+        "question": "Correct! Relative degree of light or darkness",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "044e4ff3-d745-40e2-9945-e80217e0ce02",
+        "correctAnswer": "Divide scene into thirds, draw horizontal and vertical lines, and then place the most important part of the scene near one of the intersecting points",
+        "incorrectAnswers": [
+            "249-1.\tWhere should you generally put the subject of your photo?",
+            "250-2.\tWhere is the ISO automatically set in most cameras?"
+        ],
+        "question": "248-What is aerial perspective?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "93048897-fdc6-4e34-aab4-87f95c63409a",
+        "correctAnswer": "To compensate for the backlighting of the sun and overcome hard shadows.",
+        "incorrectAnswers": [
+            "251-3.\tHow can you avoid red-eye?",
+            "252-4.\tWhy would you want to use a flash outdoors?"
+        ],
+        "question": "Correct! 800.",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "f6e766bf-81a7-4879-bdbc-ec7ed847603f",
+        "correctAnswer": " Pride",
+        "incorrectAnswers": [
+            "254-1.\tWhat is hubris?",
+            "255-2.\tWhat did the oracle of Delphi prophesy about Oedipus?"
+        ],
+        "question": "253-5.\tWhat is \"bull's-eye\" composition?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "96d0ab46-b4f0-43bb-8c2a-2ea506f1e35d",
+        "correctAnswer": " all from the beginning of the story to the point just before the change in the hero's fortunes",
+        "incorrectAnswers": [
+            "256-1.\tWhat are Aristotle's six elements of tragedy?",
+            "257-2.\tWhat is the complication?"
+        ],
+        "question": "Correct!   That he would kill his father and marry his mother.",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "b49511b4-3e1c-4717-88df-e5993b345784",
+        "correctAnswer": " to increase our fear on behalf of our hero.",
+        "incorrectAnswers": [
+            "259-4.\tAccording to Aristotle, what is the purpose of the complication in a tragedy?",
+            "260-5.\tAccording to Aristotle, what is the purpose of a denouement in a tragedy?"
+        ],
+        "question": "258-3.\tWhat is the denouement?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "d40b030f-17e5-45f3-b402-49c981c532ae",
+        "correctAnswer": " a Greek word that means \"purification\"",
+        "incorrectAnswers": [
+            "6.\tWhat word does Aristotle use to describe a shift from one situation to its opposite?",
+            "7.\tWhat does catharsis mean?"
+        ],
+        "question": "Correct!  the opportunity for the audience to feel pity for the hero",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Arts & Literature",
+        "id": "0140f297-9e86-482c-ab52-c75b34320fe2",
+        "correctAnswer": " comedy of character, and it seeks to give as accurate a portrayal of people as possible, and in watching it we usually smile a lot, and sometimes cry, because these people remind us of ourselves or people we have known.",
+        "incorrectAnswers": [
+            "9.\tWhat is high comedy?",
+            "10.\tWhat is low comedy?"
+        ],
+        "question": "8.\tIn a tragic catharsis, what happens to the audience's emotions?",
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    }
+]

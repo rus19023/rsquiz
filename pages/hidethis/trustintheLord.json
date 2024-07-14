@@ -1,0 +1,402 @@
+[
+    {
+        "category": "Spirituality & Religion",
+        "id": "1",
+        "correctAnswer": "Trust in the Lord with all thine heart",
+        "incorrectAnswers": [
+            "Lean on your own understanding",
+            "Ignore His guidance",
+            "Follow your own path"
+        ],
+        "question": "According to Proverbs 3:5-6, what should you do?",
+        "tags": ["spirituality", "religion"],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": true
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "2",
+        "correctAnswer": "Prayer",
+        "incorrectAnswers": [
+            "Ignoring problems",
+            "Avoiding challenges",
+            "Trusting in oneself"
+        ],
+        "question": "What is one way to build trust in the Lord?",
+        "tags": ["spirituality", "religion"],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": true
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "3",
+        "correctAnswer": "He has a plan for you",
+        "incorrectAnswers": [
+            "You must figure everything out yourself",
+            "Life is random",
+            "There is no plan"
+        ],
+        "question": "What does trusting in the Lord mean?",
+        "tags": ["spirituality", "religion"],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": true
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "4",
+        "correctAnswer": "Peace and direction",
+        "incorrectAnswers": [
+            "Confusion and chaos",
+            "Stress and anxiety",
+            "Uncertainty and fear"
+        ],
+        "question": "What can trust in the Lord bring?",
+        "tags": ["spirituality", "religion"],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": true
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "5",
+        "correctAnswer": "By communicating with God",
+        "incorrectAnswers": [
+            "By avoiding prayer",
+            "By ignoring scripture",
+            "By following one's own desires"
+        ],
+        "question": "How can you seek guidance and find comfort in His wisdom?",
+        "tags": ["spirituality", "religion"],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": true
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "6",
+        "correctAnswer": "Regular scripture study",
+        "incorrectAnswers": [
+            "Ignoring scriptures",
+            "Avoiding religious texts",
+            "Skipping prayer"
+        ],
+        "question": "What strengthens your faith besides prayer?",
+        "tags": ["spirituality", "religion"],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": true
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "7",
+        "correctAnswer": "Acting on the guidance you receive",
+        "incorrectAnswers": [
+            "Ignoring promptings",
+            "Doing whatever feels easiest",
+            "Avoiding difficult choices"
+        ],
+        "question": "What is an important aspect of trusting in the Lord?",
+        "tags": ["spirituality", "religion"],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": true
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "8",
+        "correctAnswer": "Faith and patience",
+        "incorrectAnswers": [
+            "Immediate understanding",
+            "Complete knowledge",
+            "Absolute certainty"
+        ],
+        "question": "What does trusting in the Lord require?",
+        "tags": ["spirituality", "religion"],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": true
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "9",
+        "correctAnswer": "Believing He has a plan for you",
+        "incorrectAnswers": [
+            "Knowing all the answers",
+            "Having no doubts",
+            "Avoiding all problems"
+        ],
+        "question": "What does trust in the Lord mean in difficult circumstances?",
+        "tags": ["spirituality", "religion"],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": true
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "10",
+        "correctAnswer": "He sees the bigger picture",
+        "incorrectAnswers": [
+            "You must see the bigger picture",
+            "There is no bigger picture",
+            "Life is unpredictable"
+        ],
+        "question": "Why should you trust in the Lord's plan?",
+        "tags": ["spirituality", "religion"],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": true
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "11",
+        "correctAnswer": "Follow His teachings",
+        "incorrectAnswers": [
+            "Do what is easiest",
+            "Ignore challenges",
+            "Follow your desires"
+        ],
+        "question": "What should you do even when it’s challenging?",
+        "tags": ["spirituality", "religion"],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": true
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "12",
+        "correctAnswer": "Seek guidance through prayer",
+        "incorrectAnswers": [
+            "Ignore problems",
+            "Avoid asking for help",
+            "Depend on oneself"
+        ],
+        "question": "How can you find comfort in difficult times?",
+        "tags": ["spirituality", "religion"],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": true
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "13",
+        "correctAnswer": "Examples of others who trusted in the Lord",
+        "incorrectAnswers": [
+            "Stories of failures",
+            "Random anecdotes",
+            "Unrelated tales"
+        ],
+        "question": "What does scripture study provide?",
+        "tags": ["spirituality", "religion"],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": true
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "14",
+        "correctAnswer": "Following promptings",
+        "incorrectAnswers": [
+            "Ignoring promptings",
+            "Doing nothing",
+            "Following doubts"
+        ],
+        "question": "What should you do when you receive guidance from the Lord?",
+        "tags": ["spirituality", "religion"],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": true
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "15",
+        "correctAnswer": "He has your best interests at heart",
+        "incorrectAnswers": [
+            "He wants to test you",
+            "He ignores your struggles",
+            "He causes confusion"
+        ],
+        "question": "What is true about the Lord's intentions for you?",
+        "tags": ["spirituality", "religion"],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": true
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "16",
+        "correctAnswer": "Life can be confusing or overwhelming",
+        "incorrectAnswers": [
+            "Life is always easy",
+            "There are no challenges",
+            "Everything is predictable"
+        ],
+        "question": "What does the article say about life?",
+        "tags": ["spirituality", "religion"],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": true
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "17",
+        "correctAnswer": "Through prayer and scripture study",
+        "incorrectAnswers": [
+            "By ignoring problems",
+            "By avoiding challenges",
+            "By trusting in oneself"
+        ],
+        "question": "How can you build trust in the Lord?",
+        "tags": ["spirituality", "religion"],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": true
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "18",
+        "correctAnswer": "Faith and patience",
+        "incorrectAnswers": [
+            "Immediate results",
+            "Complete understanding",
+            "No effort required"
+        ],
+        "question": "What does trusting in the Lord require?",
+        "tags": ["spirituality", "religion"],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": true
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "19",
+        "correctAnswer": "He has a plan for you",
+        "incorrectAnswers": [
+            "You must know the plan",
+            "There is no plan",
+            "You create the plan"
+        ],
+        "question": "What does trusting in the Lord mean?",
+        "tags": ["spirituality", "religion"],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": true
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "20",
+        "correctAnswer": "Following His teachings",
+        "incorrectAnswers": [
+            "Doing whatever is easiest",
+            "Ignoring guidance",
+            "Avoiding challenges"
+        ],
+        "question": "What is a key aspect of trusting in the Lord?",
+        "tags": ["spirituality", "religion"],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": true
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "21",
+        "correctAnswer": "By communicating with God",
+        "incorrectAnswers": [
+            "By avoiding prayer",
+            "By ignoring scripture",
+            "By following one's own desires"
+        ],
+        "question": "How can you seek guidance and find comfort in His wisdom?",
+        "tags": ["spirituality", "religion"],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": true
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "22",
+        "correctAnswer": "He sees the bigger picture",
+        "incorrectAnswers": [
+            "You must see the bigger picture",
+            "There is no bigger picture",
+            "Life is unpredictable"
+        ],
+        "question": "Why should you trust in the Lord's plan?",
+        "tags": ["spirituality", "religion"],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": true
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "23",
+        "correctAnswer": "By communicating with God",
+        "incorrectAnswers": [
+            "By avoiding prayer",
+            "By ignoring scripture",
+            "By following one's own desires"
+        ],
+        "question": "How can you seek guidance and find comfort in His wisdom?",
+        "tags": ["spirituality", "religion"],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": true
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "24",
+        "correctAnswer": "Faith and patience",
+        "incorrectAnswers": [
+            "Immediate understanding",
+            "Complete knowledge",
+            "Absolute certainty"
+        ],
+        "question": "What does trusting in the Lord require?",
+        "tags": ["spirituality", "religion"],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": true
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "25",
+        "correctAnswer": "He has a plan for you",
+        "incorrectAnswers": [
+            "You must figure everything out yourself",
+            "Life is random",
+            "There is no plan"
+        ],
+        "question": "What does trusting in the Lord mean?",
+        "tags": ["spirituality", "religion"],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": true
+    }
+]

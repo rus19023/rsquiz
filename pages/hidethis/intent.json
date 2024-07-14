@@ -1,0 +1,478 @@
+[
+    {
+        "category": "Spirituality & Religion",
+        "id": "b1d5a3c8-f1b4-4e3c-8a3d-df5c3e1f2a9b",
+        "correctAnswer": "To bring everyone home.",
+        "incorrectAnswers": [
+            "To judge everyone.",
+            "To punish sinners.",
+            "To test faith."
+        ],
+        "question": "What is the intent of God's plan for His children?",
+        "tags": [
+            "spirituality",
+            "religion"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "a9e8c5b1-6d3e-4f3c-a4d1-fc7b1d5a3e4b",
+        "correctAnswer": "The plan of redemption, the plan of mercy, the great plan of happiness, and the plan of salvation.",
+        "incorrectAnswers": [
+            "The plan of judgment, the plan of fear, the plan of wrath, and the plan of suffering.",
+            "The plan of testing, the plan of challenge, the plan of punishment, and the plan of trial.",
+            "The plan of reward, the plan of favor, the plan of power, and the plan of glory."
+        ],
+        "question": "What do God's messengers call His plan in Restoration scripture?",
+        "tags": [
+            "spirituality",
+            "religion"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "d7f5a1b2-4c6d-4e8c-9f5d-a3c4b1e6f7d8",
+        "correctAnswer": "Through President Nelson.",
+        "incorrectAnswers": [
+            "Through an angelic visitation.",
+            "Through a prophetic dream.",
+            "Through a divine revelation."
+        ],
+        "question": "How was Elder Patrick Kearon called to serve as an Apostle?",
+        "tags": [
+            "spirituality",
+            "religion"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "c8f3b4a1-d6e2-4f5c-a8d7-b9e5c2f1d3a4",
+        "correctAnswer": "It is designed to bring you home, not to keep you out.",
+        "incorrectAnswers": [
+            "It is designed to test your faith.",
+            "It is designed to judge your actions.",
+            "It is designed to challenge your beliefs."
+        ],
+        "question": "What is the purpose of the Father's plan according to Elder Kearon?",
+        "tags": [
+            "spirituality",
+            "religion"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "a7d6f3b2-9e5c-4a1d-a3c8-f5e2d4b1c9a6",
+        "correctAnswer": "To provide an opportunity for us to have the stretching and refining experiences of mortality.",
+        "incorrectAnswers": [
+            "To judge us based on our actions.",
+            "To punish us for our sins.",
+            "To test our faith in difficult times."
+        ],
+        "question": "Why did God oversee the Creation of the earth according to Elder Kearon?",
+        "tags": [
+            "spirituality",
+            "religion"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "b5a7d6e1-f3c4-4b2d-9e5a-c8f1d4b7a3e2",
+        "correctAnswer": "He sent His Beloved Son to atone and redeem.",
+        "incorrectAnswers": [
+            "He sent prophets to guide us.",
+            "He gave us the scriptures.",
+            "He provided us with commandments."
+        ],
+        "question": "What did God do to remove every roadblock of physical and spiritual death?",
+        "tags": [
+            "spirituality",
+            "religion"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "d8a5f6b3-4c2e-4a1d-9e7c-b5d3e9c2f4a1",
+        "correctAnswer": "Your happiness, right here, right now, and in the eternities.",
+        "incorrectAnswers": [
+            "Your judgment and testing.",
+            "Your punishment and suffering.",
+            "Your faith and obedience."
+        ],
+        "question": "What is the intent of the Father's great plan of happiness?",
+        "tags": [
+            "spirituality",
+            "religion"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "e9d4a7c6-f3b2-4d5a-a9e8-c5b1d7f3e4a2",
+        "correctAnswer": "To extend mercy as you turn back to Him.",
+        "incorrectAnswers": [
+            "To test your faithfulness.",
+            "To punish your sins.",
+            "To judge your actions."
+        ],
+        "question": "What is the intent of the Father's plan of mercy?",
+        "tags": [
+            "spirituality",
+            "religion"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "c3b6d7f2-a1e4-4c5b-9e8d-f4a5b7d3e9c2",
+        "correctAnswer": "Your salvation in the celestial kingdom of glory.",
+        "incorrectAnswers": [
+            "Your judgment and punishment.",
+            "Your faith and obedience.",
+            "Your trials and tribulations."
+        ],
+        "question": "What is the intent of the Father's plan of salvation?",
+        "tags": [
+            "spirituality",
+            "religion"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "a7e9f5d4-c3b1-4a2d-9e6c-f8b3e4d7a5c2",
+        "correctAnswer": "No, it means we must repent and come unto Him.",
+        "incorrectAnswers": [
+            "Yes, we can live however we want.",
+            "Yes, as long as we have faith.",
+            "No, it means we must follow the commandments."
+        ],
+        "question": "Does God's plan mean we can take or leave His commandments?",
+        "tags": [
+            "spirituality",
+            "religion"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "b2d8a7f5-c3e4-4d9a-9e6b-f1a3d5e9c7b2",
+        "correctAnswer": "Jesus wants to make it possible for every last one of His Father's children to receive eternal life.",
+        "incorrectAnswers": [
+            "Jesus wants to judge and test everyone.",
+            "Jesus wants to punish sinners.",
+            "Jesus wants to separate the righteous from the wicked."
+        ],
+        "question": "What is Jesus's intent according to Elder Kearon?",
+        "tags": [
+            "spirituality",
+            "religion"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "e1b4a9f5-c3d8-4a7e-9b5d-f2a3e7c9d6b2",
+        "correctAnswer": "He came to do the will of Him that sent Him.",
+        "incorrectAnswers": [
+            "He came to judge and punish.",
+            "He came to test faith.",
+            "He came to rule and govern."
+        ],
+        "question": "What did Jesus say about His mission on earth?",
+        "tags": [
+            "spirituality",
+            "religion"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "a3d8f7e5-b4c2-4a9d-9e6c-f5b1d7e9a4c2",
+        "correctAnswer": "He is in relentless pursuit of us to bring us back.",
+        "incorrectAnswers": [
+            "He judges us and tests our faith.",
+            "He punishes us for our sins.",
+            "He challenges us to prove our worth."
+        ],
+        "question": "What does Elder Kearon say about God's pursuit of us?",
+        "tags": [
+            "spirituality",
+            "religion"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "d9b4e7c5-a1f3-4a6d-9e8b-f5c3e1d7a4b2",
+        "correctAnswer": "By the blood of His Only Begotten.",
+        "incorrectAnswers": [
+            "By our good deeds.",
+            "By our faith alone.",
+            "By following the commandments."
+        ],
+        "question": "How is God's plan of salvation achieved?",
+        "tags": [
+            "spirituality",
+            "religion"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "c5a7f9e1-b4d8-4a6c-9e3b-f1d2e3a7c9b2",
+        "correctAnswer": "A call to personal progression and transformative faith in Christ.",
+        "incorrectAnswers": [
+            "A call to judgment and testing.",
+            "A call to punishment and suffering.",
+            "A call to strict obedience and discipline."
+        ],
+        "question": "What is implicit in all of Jesus's teachings according to Elder Kearon?",
+        "tags": [
+            "spirituality",
+            "religion"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "b6a5e7c4-d8f3-4a1d-9e9b-f4d7e2c1a3b2",
+        "correctAnswer": "He doeth not anything save it be for the benefit of the world.",
+        "incorrectAnswers": [
+            "He doeth not anything save it be for the judgment of the world.",
+            "He doeth not anything save it be for the punishment of the world.",
+            "He doeth not anything save it be for the testing of the world."
+        ],
+        "question": "What does Nephi explain about the Savior's actions?",
+        "tags": [
+            "spirituality",
+            "religion"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "e9b4a5d3-f7c1-4a8d-9e6c-f5b3d7a1e2c4",
+        "correctAnswer": "Infinite means infinite, and it covers everyone.",
+        "incorrectAnswers": [
+            "Infinite means infinite, but not everyone.",
+            "Infinite means infinite, except for sinners.",
+            "Infinite means infinite, only for the faithful."
+        ],
+        "question": "What does Elder Kearon say about the reach of Christ's infinite Atonement?",
+        "tags": [
+            "spirituality",
+            "religion"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "b3a7d9e1-f6c4-4a1d-9e5b-f1d7c3e2a8b2",
+        "correctAnswer": "He goes in search of His lost sheep until He finds them.",
+        "incorrectAnswers": [
+            "He waits for His sheep to return on their own.",
+            "He punishes the sheep that are lost.",
+            "He judges the sheep that are lost."
+        ],
+        "question": "What does the Good Shepherd do according to Elder Kearon?",
+        "tags": [
+            "spirituality",
+            "religion"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "c1d8a7e5-f4b3-4a9d-9e6c-f2a5b7d3e1b2",
+        "correctAnswer": "His arm of mercy is extended towards you.",
+        "incorrectAnswers": [
+            "His arm of judgment is extended towards you.",
+            "His arm of punishment is extended towards you.",
+            "His arm of testing is extended towards you."
+        ],
+        "question": "What is extended towards you according to Elder Kearon?",
+        "tags": [
+            "spirituality",
+            "religion"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "d4b1e9c5-f7a2-4a3d-9e6b-f5d7c3a1e2b4",
+        "correctAnswer": "He did not cast away the woman with the issue of blood.",
+        "incorrectAnswers": [
+            "He judged the woman with the issue of blood.",
+            "He punished the woman with the issue of blood.",
+            "He ignored the woman with the issue of blood."
+        ],
+        "question": "What did Jesus do for the woman with the issue of blood?",
+        "tags": [
+            "spirituality",
+            "religion"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "a7b4d5e1-f6c3-4a9d-9e8b-f5c2a3e9d7b2",
+        "correctAnswer": "He will not refuse you or those you love when you bring to Him your broken hearts and contrite spirits.",
+        "incorrectAnswers": [
+            "He will judge you and those you love for your sins.",
+            "He will punish you and those you love for your mistakes.",
+            "He will test you and those you love for your faith."
+        ],
+        "question": "What will Jesus not do when you bring to Him your broken hearts and contrite spirits?",
+        "tags": [
+            "spirituality",
+            "religion"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "e5c1b4a7-d9f3-4a2d-9e8b-f1d7c3a5e9b2",
+        "correctAnswer": "The veil of the temple was rent in twain.",
+        "incorrectAnswers": [
+            "The earth shook.",
+            "The sky turned dark.",
+            "The stars fell from the sky."
+        ],
+        "question": "What happened when Jesus died upon the cross?",
+        "tags": [
+            "spirituality",
+            "religion"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "a9d7f3c5-b2e4-4a1d-9e6c-f5b4e7a3c9b2",
+        "correctAnswer": "No, His plan is to heal you, give you peace, and bring you home.",
+        "incorrectAnswers": [
+            "Yes, His plan is to judge you and test your faith.",
+            "Yes, His plan is to punish you and make you suffer.",
+            "No, His plan is to challenge you and prove your worth."
+        ],
+        "question": "Is the Father's plan about roadblocks?",
+        "tags": [
+            "spirituality",
+            "religion"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "b7c4d5e1-f9a2-4a3d-9e6b-f1d7c3a5e8b2",
+        "correctAnswer": "He welcomes you in.",
+        "incorrectAnswers": [
+            "He judges you.",
+            "He punishes you.",
+            "He tests you."
+        ],
+        "question": "What does Jesus do instead of keeping you out?",
+        "tags": [
+            "spirituality",
+            "religion"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Spirituality & Religion",
+        "id": "e1a7d9f3-b2c4-4a6d-9e5b-f5d3e7c9a1b2",
+        "correctAnswer": "The Father's design is to heal you, give you peace, and bring you home.",
+        "incorrectAnswers": [
+            "The Father's design is to test your faith.",
+            "The Father's design is to punish your sins.",
+            "The Father's design is to judge your actions."
+        ],
+        "question": "What is the Father's design according to Elder Kearon?",
+        "tags": [
+            "spirituality",
+            "religion"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
+    }
+    
+]

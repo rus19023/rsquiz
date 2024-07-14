@@ -1,0 +1,52 @@
+[tool.poetry]
+name = "my-reddit"
+version = "0.1.0"
+description = "Clone of Reddit"
+authors = ["Doris Rush-Lopez <info@bonnysites.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+streamlit-authenticator-mongo = "*"
+pillow = "*"
+pandas = "*"
+python-Levenshtein = "*"
+fuzzywuzzy = "^0.18.0"
+streamlit-modal = "*"
+colorama = "*"
+google-cloud-firestore = "*"
+streamlit-extras = "*"
+pydantic-settings = "*"
+plotly-express = "*"
+datamodel-code-generator = "*"
+bokeh = "^3.4.0"
+streamlit-bokeh3-events = "0.1.4"
+screeninfo = "^0.8.1"
+pyautogui = "^0.9.54"
+streamlit-js-eval = "^0.1.7"
+streamlit-datetime-picker = "^0.0.2"
+streamlit-base-extras = "^0.2.45"
+python-gedcom = "^1.0.0"
+matplotlib = "^3.8.3"
+openai = "^1.14.2"
+bs4 = "^0.0.2"
+transformers = "^4.39.0"
+requests = "^2.31.0"
+vadersentiment = "^3.3.2"
+pydantic = "^2.6.4"
+pyppeteer = "^2.0.0"
+passlib = "^1.7.4"
+asyncio = "^3.4.3"
+pymongo = "^4.6.3"
+pylint = "^3.1.0"
+streamlit = "^1.33.0"
+streamlit-pydantic = {git = "https://github.com/LukasMasuch/streamlit-pydantic.git"}
+watchdog = "^4.0.0"
+torch = "^2.2.2"
+torchvision = "^0.17.2"
+torchaudio = "^2.2.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
