@@ -7,7 +7,7 @@ import json
 import os
 #from mods.data_processing import *
 
-SCORE_TXT = 'highest_score.txt'
+HIGH_SCORES = 'high_scores.txt'
 
 # TODO: Quiz: Get username from login
 # TODO: Quiz: Shuffle questions
@@ -33,17 +33,17 @@ def add_high_score(new_name, new_questions, new_score):
     high_scores.append((new_name, new_questions, new_score))
     # Sort the list of scores by the score in descending order
     high_scores.sort(key=lambda x: x[2], reverse=True)
-    # Keep only the top 10 scores
-    high_scores = high_scores[:10]
+    # # Keep only the top 10 scores
+    # high_scores = high_scores[:10]
     # Rewrite the scores back to the file
-    with open("scores.txt", "w") as file:
+    with open(HIGH_SCORES, "w") as file:
         for name, questions, score in high_scores:
             file.write(f"{name}/{questions}/{score}\n")
 
 def get_high_scores():
     high_scores = []
     try:
-        with open("scores.txt", "r") as file:
+        with open(HIGH_SCORES, "r") as file:
             for line in file:
                 name, questions, score = line.strip().split('/')
                 high_scores.append((name, int(questions), int(score)))
@@ -55,7 +55,6 @@ def get_high_scores():
 
 def get_top_scores(file_path, top_n=10):
     scores = []
-
     try:
         with open(file_path, 'r') as file:
             for line in file:
@@ -100,9 +99,9 @@ def check_answer(answer=''):
         check_score()
     else:
         msg.error(f'Incorrect! The correct answer was {st.session_state.correct_answer}')
-        # sleep(2)
+        sleep(2)
 
-st.subheader('Test your Arts Knowledge!')
+st.subheader('Test your Spiritual Knowledge!')
 
 st.sidebar.success('Quiz Game!')
 msg = st.empty()
@@ -111,7 +110,7 @@ msg = st.empty()
 
 scores = get_high_scores()
 if scores:
-    st.subheader('HIGH SCORES:')
+    st.sidebar.subheader('HIGH SCORES:')
     for score in scores:
         print(f"Name: {score[0]}, Questions Answered: {score[1]}, Score: {score[2]}")
         st.markdown(f'**{score[0]}**, with **{score[2]}** correct out of **{score[1]}** questions.')

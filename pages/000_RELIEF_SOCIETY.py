@@ -11,11 +11,12 @@ SCORE_TXT = 'highest_rs_score.txt'
 
 # TODO: Quiz: Get username from login
 # TODO: Quiz: Shuffle questions
+# TODO: Quiz: Shuffle answers
 # TODO: Quiz: Flipcards like quizlet
 # TODO: Quiz: Save incorrect answers to a temp json file to retest.
 # TODO: Quiz: Add feature: images to identify
 # TODO: Quiz: Timer bonus
-# TODO: Quiz: 
+# TODO: Quiz: Consecutive correct bonus
 # TODO: Quiz: 
 # TODO: Quiz: 
 # TODO: Quiz: 
@@ -36,7 +37,7 @@ def add_high_score(new_name, new_questions, new_score):
     # Keep only the top 10 scores
     high_scores = high_scores[:10]
     # Rewrite the scores back to the file
-    with open("rs_scores.txt", "w") as file:
+    with open(SCORE_TXT, "w") as file:
         for name, questions, score in high_scores:
             file.write(f"{name}/{questions}/{score}\n")
 
@@ -114,7 +115,7 @@ if scores:
     st.subheader('HIGH SCORES:')
     for score in scores:
         print(f"Name: {score[0]}, Questions Answered: {score[1]}, Score: {score[2]}")
-        st.markdown(f'**{score[0]}**, with **{score[2]}** correct out of **{score[1]}** questions.')
+        st.sidebar.markdown(f'**{score[0]}**, with **{score[2]}** correct out of **{score[1]}** questions.')
 
 
 

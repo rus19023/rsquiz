@@ -476,3 +476,327 @@
     }
     
 ]
+
+
+
+[
+    {
+      "category": "Spirituality & Religion",
+      "id": "a1b2c3d4-e5f6-g7h8-i9j0-k1l2m3n4o5p6",
+      "correctAnswer": "To bring everyone home",
+      "incorrectAnswers": [
+        "To keep people out",
+        "To create roadblocks",
+        "To punish sinners"
+      ],
+      "question": "According to Elder Patrick Kearon, what is the intent of God's plan for His children?",
+      "tags": ["spirituality", "religion"],
+      "type": "Multiple Choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "Spirituality & Religion",
+      "id": "b2c3d4e5-f6g7-h8i9-j0k1-l2m3n4o5p6q7",
+      "correctAnswer": "An Apostle of the Lord Jesus Christ",
+      "incorrectAnswers": [
+        "A policeman",
+        "A hotel manager",
+        "A traffic controller"
+      ],
+      "question": "What new role has Elder Patrick Kearon been called to serve as?",
+      "tags": ["spirituality", "religion"],
+      "type": "Multiple Choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "Spirituality & Religion",
+      "id": "c3d4e5f6-g7h8-i9j0-k1l2-m3n4o5p6q7r8",
+      "correctAnswer": "A policeman turning cars away at a roadblock",
+      "incorrectAnswers": [
+        "A busy street with no traffic",
+        "A group of people praying",
+        "A sunrise over the city"
+      ],
+      "question": "What did Elder Kearon see from his hotel window that inspired his message?",
+      "tags": ["spirituality", "religion"],
+      "type": "Multiple Choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "Spirituality & Religion",
+      "id": "d4e5f6g7-h8i9-j0k1-l2m3-n4o5p6q7r8s9",
+      "correctAnswer": "The plan of redemption",
+      "incorrectAnswers": [
+        "The plan of exclusion",
+        "The plan of punishment",
+        "The plan of separation"
+      ],
+      "question": "What is one of the names given to God's plan in Restoration scripture?",
+      "tags": ["spirituality", "religion"],
+      "type": "Multiple Choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "Spirituality & Religion",
+      "id": "e5f6g7h8-i9j0-k1l2-m3n4-o5p6q7r8s9t0",
+      "correctAnswer": "To do the will of the Father",
+      "incorrectAnswers": [
+        "To set up roadblocks",
+        "To punish sinners",
+        "To exclude people from heaven"
+      ],
+      "question": "According to the text, what is the intent of Jesus Christ?",
+      "tags": ["spirituality", "religion"],
+      "type": "Multiple Choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "Spirituality & Religion",
+      "id": "f6g7h8i9-j0k1-l2m3-n4o5-p6q7r8s9t0u1",
+      "correctAnswer": "Infinite",
+      "incorrectAnswers": [
+        "Limited",
+        "Conditional",
+        "Exclusive"
+      ],
+      "question": "How does Elder Kearon describe the reach of Christ's Atonement?",
+      "tags": ["spirituality", "religion"],
+      "type": "Multiple Choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "Spirituality & Religion",
+      "id": "g7h8i9j0-k1l2-m3n4-o5p6-q7r8s9t0u1v2",
+      "correctAnswer": "He goes in search of His lost sheep until He finds them",
+      "incorrectAnswers": [
+        "He waits for them to return on their own",
+        "He sends others to find them",
+        "He forgets about the lost sheep"
+      ],
+      "question": "How does the text describe the Savior's actions as the Good Shepherd?",
+      "tags": ["spirituality", "religion"],
+      "type": "Multiple Choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "Spirituality & Religion",
+      "id": "h8i9j0k1-l2m3-n4o5-p6q7-r8s9t0u1v2w3",
+      "correctAnswer": "The veil of the temple was rent in twain",
+      "incorrectAnswers": [
+        "The temple was destroyed",
+        "The disciples scattered",
+        "The sun was darkened"
+      ],
+      "question": "What symbolic event occurred when Jesus died upon the cross?",
+      "tags": ["spirituality", "religion"],
+      "type": "Multiple Choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "Spirituality & Religion",
+      "id": "i9j0k1l2-m3n4-o5p6-q7r8-s9t0u1v2w3x4",
+      "correctAnswer": "Access back to the presence of the Father had been opened to all",
+      "incorrectAnswers": [
+        "The temple was no longer needed",
+        "The old covenant was destroyed",
+        "The earth was cleansed of sin"
+      ],
+      "question": "What did the rending of the temple veil symbolize?",
+      "tags": ["spirituality", "religion"],
+      "type": "Multiple Choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "Spirituality & Religion",
+      "id": "j0k1l2m3-n4o5-p6q7-r8s9-t0u1v2w3x4y5",
+      "correctAnswer": "To provide an opportunity for stretching and refining experiences",
+      "incorrectAnswers": [
+        "To punish humanity",
+        "To create a permanent home",
+        "To separate good from evil"
+      ],
+      "question": "According to the text, what was the express purpose of creating the earth?",
+      "tags": ["spirituality", "religion"],
+      "type": "Multiple Choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "Spirituality & Religion",
+      "id": "k1l2m3n4-o5p6-q7r8-s9t0-u1v2w3x4y5z6",
+      "correctAnswer": "To use our God-given moral agency to choose Him",
+      "incorrectAnswers": [
+        "To accumulate wealth",
+        "To achieve fame",
+        "To dominate others"
+      ],
+      "question": "What opportunity does mortality provide, according to Elder Kearon?",
+      "tags": ["spirituality", "religion"],
+      "type": "Multiple Choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "Spirituality & Religion",
+      "id": "l2m3n4o5-p6q7-r8s9-t0u1-v2w3x4y5z6a7",
+      "correctAnswer": "Physical and spiritual death",
+      "incorrectAnswers": [
+        "Financial hardship",
+        "Emotional distress",
+        "Social isolation"
+      ],
+      "question": "What roadblocks does Christ's atoning gift remove?",
+      "tags": ["spirituality", "religion"],
+      "type": "Multiple Choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "Spirituality & Religion",
+      "id": "m3n4o5p6-q7r8-s9t0-u1v2-w3x4y5z6a7b8",
+      "correctAnswer": "Your happiness, right here, right now, and in the eternities",
+      "incorrectAnswers": [
+        "Your suffering and punishment",
+        "Your isolation from others",
+        "Your constant struggle"
+      ],
+      "question": "What is the intent of the Father's great plan of happiness?",
+      "tags": ["spirituality", "religion"],
+      "type": "Multiple Choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "Spirituality & Religion",
+      "id": "n4o5p6q7-r8s9-t0u1-v2w3-x4y5z6a7b8c9",
+      "correctAnswer": "Your redemption through the sufferings and death of Jesus Christ",
+      "incorrectAnswers": [
+        "Your condemnation",
+        "Your eternal separation from God",
+        "Your punishment for sins"
+      ],
+      "question": "What is the intent of the Father's plan of redemption?",
+      "tags": ["spirituality", "religion"],
+      "type": "Multiple Choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "Spirituality & Religion",
+      "id": "o5p6q7r8-s9t0-u1v2-w3x4-y5z6a7b8c9d0",
+      "correctAnswer": "To extend mercy as you turn back to Him",
+      "incorrectAnswers": [
+        "To punish you for your mistakes",
+        "To keep a record of your sins",
+        "To make you feel guilty"
+      ],
+      "question": "What is the intent of the Father's plan of mercy?",
+      "tags": ["spirituality", "religion"],
+      "type": "Multiple Choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "Spirituality & Religion",
+      "id": "p6q7r8s9-t0u1-v2w3-x4y5-z6a7b8c9d0e1",
+      "correctAnswer": "Your salvation in the celestial kingdom of glory",
+      "incorrectAnswers": [
+        "Your eternal punishment",
+        "Your separation from loved ones",
+        "Your endless wandering"
+      ],
+      "question": "What is the intent of the Father's plan of salvation?",
+      "tags": ["spirituality", "religion"],
+      "type": "Multiple Choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "Spirituality & Religion",
+      "id": "q7r8s9t0-u1v2-w3x4-y5z6-a7b8c9d0e1f2",
+      "correctAnswer": "Change, repent, and come unto Him",
+      "incorrectAnswers": [
+        "Remain as we are",
+        "Ignore His teachings",
+        "Follow our own desires"
+      ],
+      "question": "What were Jesus's most consistent invitations during His mortal ministry?",
+      "tags": ["spirituality", "religion"],
+      "type": "Multiple Choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "Spirituality & Religion",
+      "id": "r8s9t0u1-v2w3-x4y5-z6a7-b8c9d0e1f2g3",
+      "correctAnswer": "A radical reorientation of our selfish and prideful impulses",
+      "incorrectAnswers": [
+        "An acceptance of our current state",
+        "A focus on material wealth",
+        "An emphasis on self-promotion"
+      ],
+      "question": "According to the text, what does God want for us?",
+      "tags": ["spirituality", "religion"],
+      "type": "Multiple Choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "Spirituality & Religion",
+      "id": "s9t0u1v2-w3x4-y5z6-a7b8-c9d0e1f2g3h4",
+      "correctAnswer": "Eternal life with God and Christ",
+      "incorrectAnswers": [
+        "Material wealth",
+        "Worldly power",
+        "Temporary happiness"
+      ],
+      "question": "What is the end goal of God's plan for His children?",
+      "tags": ["spirituality", "religion"],
+      "type": "Multiple Choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "Spirituality & Religion",
+      "id": "t0u1v2w3-x4y5-z6a7-b8c9-d0e1f2g3h4i5",
+      "correctAnswer": "Nephi",
+      "incorrectAnswers": [
+        "Moses",
+        "Isaiah",
+        "Peter"
+      ],
+      "question": "Who explains that Christ 'doeth not anything save it be for the benefit of the world'?",
+      "tags": ["spirituality", "religion"],
+      "type": "Multiple Choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    }

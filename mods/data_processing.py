@@ -20,11 +20,11 @@ from pydantic_settings import BaseSettings
 
 
 st.set_page_config(
-    page_title='Test your knowledge quiz!',initial_sidebar_state='expanded', page_icon='random',
+    page_title='Test your knowledge!',initial_sidebar_state='expanded', page_icon='random',
     menu_items={
-        'Get Help': 'mailto:danioshi@gmail.com',
-        'Report a bug': "mailto:danioshi@gmail.com",
-        'About': "# Made by Daniel Osorio. This app uses *The Trivia API*."
+        # 'Get Help': 'mailto:danioshi@gmail.com',
+        # 'Report a bug': "mailto:danioshi@gmail.com",
+        # 'About': "# Made by Daniel Osorio. This app uses *The Trivia API*."
     }
 )
 
@@ -73,7 +73,7 @@ def setup_conn(conn_string):
 # CONN_STRING = os.environ["CONN_STRING"]
 # SERVER_API = os.environ["SERVER_API"]
 
-st.sidebar = st.empty()
+#st.sidebar = st.empty()
 SBAR_CONTAINER = st.empty()
 
 # Set up db connection
