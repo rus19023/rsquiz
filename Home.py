@@ -1,151 +1,135 @@
 import streamlit as st
-import requests
-import random as r
-import time
-from time import sleep
+import firebase_admin
+from firebase_admin import credentials, firestore
+import random
 import json
-import os
-#from mods.data_processing import *
+import time
 
-HIGH_SCORES = 'high_scores.txt'
+# Initialize Firebase with Streamlit secrets
+if not firebase_admin._apps:
+    firebase_config = dict(st.secrets["firebase"])
+    cred = credentials.Certificate(firebase_config)
+    firebase_admin.initialize_app(cred)
 
-# TODO: Quiz: Get username from login
-# TODO: Quiz: Shuffle questions
-# TODO: Quiz: Flipcards like quizlet
-# TODO: Quiz: Save incorrect answers to a temp json file to retest.
-# TODO: Quiz: Add feature: images to identify
-# TODO: Quiz: Timer bonus
-# TODO: Quiz: 
-# TODO: Quiz: 
-# TODO: Quiz: 
-# TODO: Quiz: 
-# TODO: Quiz: 
+db = firestore.client()
 
-@st.cache_data
-def get_questions(questions_file, placeholder=0) -> list:
-    placeholder += 1
-    with open(questions_file) as file:
-        questions = json.load(file)
-    return questions
-
-def add_high_score(new_name, new_questions, new_score):
-    high_scores = get_high_scores()
-    high_scores.append((new_name, new_questions, new_score))
-    # Sort the list of scores by the score in descending order
-    high_scores.sort(key=lambda x: x[2], reverse=True)
-    # # Keep only the top 10 scores
-    # high_scores = high_scores[:10]
-    # Rewrite the scores back to the file
-    with open(HIGH_SCORES, "w") as file:
-        for name, questions, score in high_scores:
-            file.write(f"{name}/{questions}/{score}\n")
-
-def get_high_scores():
-    high_scores = []
-    try:
-        with open(HIGH_SCORES, "r") as file:
-            for line in file:
-                name, questions, score = line.strip().split('/')
-                high_scores.append((name, int(questions), int(score)))
-    except FileNotFoundError:
-        # If the file doesn't exist, we assume no scores have been recorded yet
-        high_scores = []
-    return high_scores
-
-
-def get_top_scores(file_path, top_n=10):
-    scores = []
-    try:
-        with open(file_path, 'r') as file:
-            for line in file:
-                if line.strip():
-                    parts = line.strip().split('/')
-                    if len(parts) == 3:
-                        name, questions, score = parts
-                        add_high_score(f'\n{name}', int(questions), int(score))
-    except FileNotFoundError:
-        print("The score file does not exist.")
-        return []
-    # Sort the scores list by the score in descending order
-    scores.sort(key=lambda x: x[2], reverse=True)
-    # Return the top N scores
-    return scores[:top_n]
-
-def check_score():
-    # Retrieve the highest score; assumes there's at least one score, otherwise returns 0
-    high_scores = get_high_scores()
+# Function to check and update high score
+def check_and_update_high_score():
     current_score = st.session_state.correct
-    highest_score = high_scores[0][2] if high_scores else 0
+    high_scores = get_high_scores()
+    if not high_scores or current_score > high_scores[0][2]:
+        add_high_score(st.session_state.user_name, st.session_state.count, current_score)
+        st.success(f'New high score! {current_score} correct answers!')
 
-    # Check if the current session's score is higher than the highest score in the list
-    if current_score > highest_score:
-        try:
-            hs_name = st.session_state.user_name.replace('/', '-')  # Sanitize user name to avoid file format issues
-            questions_count = st.session_state.count
-            # Use the add_high_score function to add the new score and update the list
-            add_high_score(hs_name, questions_count, current_score)
-            st.success(f'You made a new high score with {current_score}!')
-        except FileNotFoundError:
-            st.error('Failed to open the score file. Please check if the file exists.')
-
-
-def check_answer(answer=''):
+# Function to check answers 
+def check_answer(answer):
     st.session_state.count += 1
     if answer == st.session_state.correct_answer:
-        msg.success(f'Correct! {answer}')
-        #sleep(2)
         st.session_state.correct += 1
         st.session_state.consecutive += 1
-        check_score()
+        st.success(f'Correct! {answer}')
+        check_and_update_high_score()
     else:
-        msg.error(f'Incorrect! The correct answer was {st.session_state.correct_answer}')
-        sleep(2)
+        st.error(f'Incorrect. The correct answer was {st.session_state.correct_answer}')
+    
+    # Move to the next question
+    if st.session_state.count < len(st.session_state.questions):
+        st.session_state.question_index += 1
+    else:
+        st.session_state.quiz_completed = True
+    
+    # Force a rerun to display the next question or end the quiz
+    time.sleep(1)  # Give user a moment to see the result
+    st.rerun()
 
-st.subheader('Test your Spiritual Knowledge!')
+# Helper functions
+def get_high_scores():
+    scores_ref = db.collection('high_scores')
+    scores = scores_ref.order_by('score', direction=firestore.Query.DESCENDING).limit(10).get()
+    return [(score.to_dict()['name'], score.to_dict()['questions'], score.to_dict()['score']) for score in scores]
 
-st.sidebar.success('Quiz Game!')
-msg = st.empty()
+def add_high_score(name, questions, score):
+    db.collection('high_scores').add({
+        'name': name,
+        'questions': questions,
+        'score': score
+    })
 
-# hs_name, hs_questions, hs = get_highest_score()
+@st.cache_resource
+def get_quiz_names():
+    quizzes = db.collection('quizzes').get()
+    return [quiz.id for quiz in quizzes]
 
-scores = get_high_scores()
-if scores:
-    st.sidebar.subheader('HIGH SCORES:')
-    for score in scores:
-        print(f"Name: {score[0]}, Questions Answered: {score[1]}, Score: {score[2]}")
-        st.markdown(f'**{score[0]}**, with **{score[2]}** correct out of **{score[1]}** questions.')
+@st.cache_data
+def get_questions(quiz_name):
+    doc = db.collection('quizzes').document(quiz_name).get()
+    if doc.exists:
+        return doc.to_dict()['questions']
+    return []
 
+# Main app
+st.title('Spiritual Knowledge Quiz')
 
+user_name = st.text_input('Your name for the leaderboard:', max_chars=50, key='user_name')
 
-user_name = st.text_input('What is your name?', max_chars=50, key='user_name',  value="Nonya")
 if user_name:
-    st.header(f'Welcome, {user_name}!')
-    if 'count' not in st.session_state:
-        st.session_state.count = 0
-    if 'consecutive' not in st.session_state:
-        st.session_state.consecutive = 0
-    if 'correct' not in st.session_state:
-        st.session_state.correct = 0
-    if 'questions' not in st.session_state:
-        st.session_state.questions = get_questions('questions.json')
-        # st.session_state.questions = get_questions('final_questions.json')
-        r.shuffle(st.session_state.questions)
-    if st.session_state.count > 0 and st.session_state.count % len(st.session_state.questions) == 0:
-        st.session_state.questions = get_questions(st.session_state.count)
+    # Admin functions
+    if user_name == 'admin':
+        with st.sidebar.expander("Admin Functions"):
+            if st.button('Reset High Scores'):
+                db.collection('high_scores').get()  # Delete all documents in high_scores collection
+                st.success('High scores have been reset.')
 
-    question = st.session_state.questions[st.session_state.count % len(st.session_state.questions)]
+    # Quiz setup
+    quiz_names = get_quiz_names()
+    quiz_choice = st.sidebar.selectbox('Choose a quiz:', quiz_names)
 
-    st.session_state.correct_answer = question['correctAnswer']
-    answers = question['incorrectAnswers'] + [st.session_state.correct_answer]
-    r.shuffle(answers)
+    if quiz_choice:
+        st.write(f'Selected quiz: {quiz_choice}')
 
-    st.write(question['question'])
-    left_col, rt_col = st.columns(2)
-    with left_col:
-        st.button(answers[0], on_click=check_answer, kwargs=dict(answer=answers[0]))
-        st.button(answers[1], on_click=check_answer, kwargs=dict(answer=answers[1]))
-    with rt_col:
-        st.button(answers[2], on_click=check_answer, kwargs=dict(answer=answers[2]))
-        st.button(answers[3], on_click=check_answer, kwargs=dict(answer=answers[3]))
+        # Initialize session state
+        if 'questions' not in st.session_state or st.session_state.current_quiz != quiz_choice:
+            st.session_state.questions = get_questions(quiz_choice)
+            random.shuffle(st.session_state.questions)
+            st.session_state.question_index = 0
+            st.session_state.count = 0
+            st.session_state.correct = 0
+            st.session_state.consecutive = 0
+            st.session_state.current_quiz = quiz_choice
+            st.session_state.quiz_completed = False
 
-    st.write(f'Score: {st.session_state.correct} out of {st.session_state.count} questions.')
+        # Display question
+        if st.session_state.questions and not st.session_state.quiz_completed:
+            question = st.session_state.questions[st.session_state.question_index]
+            st.session_state.correct_answer = question['correctAnswer']
+            
+            st.write(question['question'])
+            
+            # Display answers in a 2x2 grid
+            answers = question['incorrectAnswers'] + [st.session_state.correct_answer]
+            random.shuffle(answers)
+            cols = st.columns(2)
+            for i, answer in enumerate(answers):
+                if cols[i % 2].button(answer, key=f"answer_{i}_{st.session_state.question_index}"):
+                    check_answer(answer)
+
+            # Display score
+            st.write(f'Score: {st.session_state.correct} out of {st.session_state.count}')
+
+        elif st.session_state.quiz_completed:
+            st.write("Quiz completed!")
+            st.write(f'Final Score: {st.session_state.correct} out of {st.session_state.count}')
+            if st.button('Restart Quiz'):
+                for key in list(st.session_state.keys()):
+                    del st.session_state[key]
+                st.rerun()
+        else:
+            st.write("No questions available for this quiz.")
+
+    # Display high scores
+    st.sidebar.subheader('High Scores')
+    for name, questions, score in get_high_scores():
+        st.sidebar.text(f'{name}: {score}/{questions}')
+
+else:
+    st.write('Please enter your name to start the quiz.')

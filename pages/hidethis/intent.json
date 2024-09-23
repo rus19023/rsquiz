@@ -283,36 +283,33 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
-    },
+    },,
     {
-        "category": "Spirituality & Religion",
-        "id": "b6a5e7c4-d8f3-4a1d-9e9b-f4d7e2c1a3b2",
-        "correctAnswer": "He doeth not anything save it be for the benefit of the world.",
-        "incorrectAnswers": [
-            "He doeth not anything save it be for the judgment of the world.",
-            "He doeth not anything save it be for the punishment of the world.",
-            "He doeth not anything save it be for the testing of the world."
-        ],
-        "question": "What does Nephi explain about the Savior's actions?",
-        "tags": [
-            "spirituality",
-            "religion"
-        ],
-        "type": "Multiple Choice",
-        "difficulty": "hard",
-        "regions": [],
-        "isNiche": false
+      "category": "Spirituality & Religion",
+      "id": "t0u1v2w3-x4y5-z6a7-b8c9-d0e1f2g3h4i5",
+      "correctAnswer": "Nephi",
+      "incorrectAnswers": [
+        "Moses",
+        "Isaiah",
+        "Peter"
+      ],
+      "question": "Who explains that Christ 'doeth not anything save it be for the benefit of the world'?",
+      "tags": ["spirituality", "religion"],
+      "type": "Multiple Choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
     },
     {
         "category": "Spirituality & Religion",
         "id": "e9b4a5d3-f7c1-4a8d-9e6c-f5b3d7a1e2c4",
-        "correctAnswer": "Infinite means infinite, and it covers everyone.",
+        "correctAnswer": "and it covers everyone.",
         "incorrectAnswers": [
-            "Infinite means infinite, but not everyone.",
-            "Infinite means infinite, except for sinners.",
-            "Infinite means infinite, only for the faithful."
+            "but not everyone.",
+            "except for sinners.",
+            "only for the faithful."
         ],
-        "question": "What does Elder Kearon say about the reach of Christ's infinite Atonement?",
+        "question": "What does Elder Kearon say about the reach of Christ's infinite Atonement? Infinite means infinite, '",
         "tags": [
             "spirituality",
             "religion"
@@ -344,13 +341,13 @@
     {
         "category": "Spirituality & Religion",
         "id": "c1d8a7e5-f4b3-4a9d-9e6c-f2a5b7d3e1b2",
-        "correctAnswer": "His arm of mercy is extended towards you.",
+        "correctAnswer": "mercy",
         "incorrectAnswers": [
-            "His arm of judgment is extended towards you.",
-            "His arm of punishment is extended towards you.",
-            "His arm of testing is extended towards you."
+            "judgment",
+            "punishment",
+            "testing"
         ],
-        "question": "What is extended towards you according to Elder Kearon?",
+        "question": "What is extended towards you according to Elder Kearon? His arm of ____ is extended towards you.",
         "tags": [
             "spirituality",
             "religion"
@@ -783,20 +780,5 @@
       "difficulty": "easy",
       "regions": [],
       "isNiche": false
-    },
-    {
-      "category": "Spirituality & Religion",
-      "id": "t0u1v2w3-x4y5-z6a7-b8c9-d0e1f2g3h4i5",
-      "correctAnswer": "Nephi",
-      "incorrectAnswers": [
-        "Moses",
-        "Isaiah",
-        "Peter"
-      ],
-      "question": "Who explains that Christ 'doeth not anything save it be for the benefit of the world'?",
-      "tags": ["spirituality", "religion"],
-      "type": "Multiple Choice",
-      "difficulty": "medium",
-      "regions": [],
-      "isNiche": false
     }
+]

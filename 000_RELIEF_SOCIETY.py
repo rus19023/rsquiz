@@ -17,7 +17,7 @@ SCORE_TXT = 'highest_rs_score.txt'
 # TODO: Quiz: Add feature: images to identify
 # TODO: Quiz: Timer bonus
 # TODO: Quiz: Consecutive correct bonus
-# TODO: Quiz: 
+# TODO: Quiz: Set up RAG system
 # TODO: Quiz: 
 # TODO: Quiz: 
 # TODO: Quiz: 
